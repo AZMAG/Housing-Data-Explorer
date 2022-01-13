@@ -1,0 +1,326 @@
+[
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2010",
+   "group1": 0.488152739,
+   "group2": 0.370401484,
+   "group3": 0.14993678,
+   "group4": 0.925315631,
+   "group5": 0.535321759
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2011",
+   "group1": 0.97915579,
+   "group2": 0.005734164,
+   "group3": 0.089065993,
+   "group4": 0.871721542,
+   "group5": 0.635783773
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2012",
+   "group1": 0.435398002,
+   "group2": 0.937092738,
+   "group3": 0.890540407,
+   "group4": 0.542715923,
+   "group5": 0.7411812
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2013",
+   "group1": 0.706249254,
+   "group2": 0.479755828,
+   "group3": 0.57095141,
+   "group4": 0.871399298,
+   "group5": 0.230222502
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2014",
+   "group1": 0.541842204,
+   "group2": 0.620419993,
+   "group3": 0.416893197,
+   "group4": 0.754211104,
+   "group5": 0.151525067
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2015",
+   "group1": 0.790515789,
+   "group2": 0.833452074,
+   "group3": 0.153309066,
+   "group4": 0.4927178,
+   "group5": 0.210420835
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2016",
+   "group1": 0.623234636,
+   "group2": 0.804073464,
+   "group3": 0.723611624,
+   "group4": 0.485648583,
+   "group5": 0.051048154
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2017",
+   "group1": 0.703017429,
+   "group2": 0.82726308,
+   "group3": 0.367789607,
+   "group4": 0.805616745,
+   "group5": 0.927389028
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2018",
+   "group1": 0.520481682,
+   "group2": 0.000637817,
+   "group3": 0.281177179,
+   "group4": 0.908464346,
+   "group5": 0.174824148
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2019",
+   "group1": 0.005687448,
+   "group2": 0.879051024,
+   "group3": 0.310536824,
+   "group4": 0.583333792,
+   "group5": 0.427420574
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q4 2020",
+   "group1": 0.023456501,
+   "group2": 0.05272809,
+   "group3": 0.193894391,
+   "group4": 0.377495512,
+   "group5": 0.307073264
+ },
+ {
+   "Geography": "Maricopa County",
+   "Month": "Q1 2021",
+   "group1": 0.373505321,
+   "group2": 0.134264077,
+   "group3": 0.864117698,
+   "group4": 0.406772216,
+   "group5": 0.307131269
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2010",
+   "group1": 0.44497405,
+   "group2": 0.12215055,
+   "group3": 0.217001698,
+   "group4": 0.679523596,
+   "group5": 0.815511238
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2011",
+   "group1": 0.600757196,
+   "group2": 0.428959373,
+   "group3": 0.726412302,
+   "group4": 0.286702,
+   "group5": 0.05723578
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2012",
+   "group1": 0.054967771,
+   "group2": 0.041188068,
+   "group3": 0.327833254,
+   "group4": 0.338515516,
+   "group5": 0.831025466
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2013",
+   "group1": 0.857145617,
+   "group2": 0.955647198,
+   "group3": 0.075908592,
+   "group4": 0.043783013,
+   "group5": 0.548033451
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2014",
+   "group1": 0.043270976,
+   "group2": 0.263218916,
+   "group3": 0.858797173,
+   "group4": 0.461009775,
+   "group5": 0.927499249
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2015",
+   "group1": 0.599760609,
+   "group2": 0.589260892,
+   "group3": 0.696988738,
+   "group4": 0.512502586,
+   "group5": 0.49182576
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2016",
+   "group1": 0.72607017,
+   "group2": 0.533514658,
+   "group3": 0.986907484,
+   "group4": 0.025374123,
+   "group5": 0.189328418
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2017",
+   "group1": 0.011160486,
+   "group2": 0.877484904,
+   "group3": 0.440422634,
+   "group4": 0.230677472,
+   "group5": 0.697933319
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2018",
+   "group1": 0.831663012,
+   "group2": 0.2048866,
+   "group3": 0.351318362,
+   "group4": 0.744790403,
+   "group5": 0.278684022
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2019",
+   "group1": 0.68529943,
+   "group2": 0.182130147,
+   "group3": 0.899145285,
+   "group4": 0.928686176,
+   "group5": 0.858070356
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q4 2020",
+   "group1": 0.787573342,
+   "group2": 0.956672681,
+   "group3": 0.394430073,
+   "group4": 0.82658023,
+   "group5": 0.961243613
+ },
+ {
+   "Geography": "Phoenix",
+   "Month": "Q1 2021",
+   "group1": 0.654540987,
+   "group2": 0.772193091,
+   "group3": 0.73096094,
+   "group4": 0.768732932,
+   "group5": 0.138927289
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2010",
+   "group1": 0.924907294,
+   "group2": 0.097884839,
+   "group3": 0.955064392,
+   "group4": 0.907231095,
+   "group5": 0.710285512
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2011",
+   "group1": 0.308331244,
+   "group2": 0.742428197,
+   "group3": 0.830770856,
+   "group4": 0.72262904,
+   "group5": 0.797099391
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2012",
+   "group1": 0.054702891,
+   "group2": 0.942582442,
+   "group3": 0.751164834,
+   "group4": 0.202510952,
+   "group5": 0.13654345
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2013",
+   "group1": 0.085514114,
+   "group2": 0.146913883,
+   "group3": 0.012120764,
+   "group4": 0.381459334,
+   "group5": 0.589351541
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2014",
+   "group1": 0.86965197,
+   "group2": 0.687394049,
+   "group3": 0.539806475,
+   "group4": 0.484500356,
+   "group5": 0.628885449
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2015",
+   "group1": 0.424072403,
+   "group2": 0.896975342,
+   "group3": 0.561441118,
+   "group4": 0.370449084,
+   "group5": 0.309598699
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2016",
+   "group1": 0.09732492,
+   "group2": 0.194299899,
+   "group3": 0.152067825,
+   "group4": 0.049909028,
+   "group5": 0.782679909
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2017",
+   "group1": 0.719805392,
+   "group2": 0.358948227,
+   "group3": 0.847107869,
+   "group4": 0.250131241,
+   "group5": 0.985024131
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2018",
+   "group1": 0.871101895,
+   "group2": 0.010364277,
+   "group3": 0.340765238,
+   "group4": 0.948810378,
+   "group5": 0.100432887
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2019",
+   "group1": 0.804237503,
+   "group2": 0.578745123,
+   "group3": 0.737669718,
+   "group4": 0.535541717,
+   "group5": 0.980758888
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q4 2020",
+   "group1": 0.300966222,
+   "group2": 0.849546583,
+   "group3": 0.906930844,
+   "group4": 0.581303885,
+   "group5": 0.867047127
+ },
+ {
+   "Geography": "Tempe",
+   "Month": "Q1 2021",
+   "group1": 0.350799766,
+   "group2": 0.248623662,
+   "group3": 0.447275368,
+   "group4": 0.03777168,
+   "group5": 0.675061195
+ }
+]

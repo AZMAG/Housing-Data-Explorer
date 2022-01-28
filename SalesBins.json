@@ -1,0 +1,2936 @@
+[
+ {
+   "geography": "Phoenix MSA",
+   "year": 2011,
+   "group1": 0.750703633,
+   "group2": 0.130234113,
+   "group3": 0.056603367,
+   "group4": 0.023637756,
+   "group5": 0.038821132
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2012,
+   "group1": 0.692330194,
+   "group2": 0.162039746,
+   "group3": 0.072310189,
+   "group4": 0.031158586,
+   "group5": 0.042161285
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2013,
+   "group1": 0.572234493,
+   "group2": 0.216670013,
+   "group3": 0.105753325,
+   "group4": 0.045647954,
+   "group5": 0.059694214
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2014,
+   "group1": 0.525116136,
+   "group2": 0.244494767,
+   "group3": 0.113956466,
+   "group4": 0.049872488,
+   "group5": 0.066560142
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2015,
+   "group1": 0.475153582,
+   "group2": 0.275826329,
+   "group3": 0.12643689,
+   "group4": 0.054554705,
+   "group5": 0.068028493
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2016,
+   "group1": 0.408701458,
+   "group2": 0.313786581,
+   "group3": 0.143223973,
+   "group4": 0.061533326,
+   "group5": 0.072754663
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2017,
+   "group1": 0.34757524,
+   "group2": 0.340470094,
+   "group3": 0.157293247,
+   "group4": 0.07192084,
+   "group5": 0.082740579
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2018,
+   "group1": 0.264296123,
+   "group2": 0.374655945,
+   "group3": 0.177891028,
+   "group4": 0.083028149,
+   "group5": 0.100128756
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2019,
+   "group1": 0.198882415,
+   "group2": 0.388759988,
+   "group3": 0.205246234,
+   "group4": 0.094129321,
+   "group5": 0.112982043
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2020,
+   "group1": 0.123092275,
+   "group2": 0.3418276,
+   "group3": 0.255341629,
+   "group4": 0.119460261,
+   "group5": 0.160278234
+ },
+ {
+   "geography": "Phoenix MSA",
+   "year": 2021,
+   "group1": 0.065539445,
+   "group2": 0.18514483,
+   "group3": 0.298731219,
+   "group4": 0.191117879,
+   "group5": 0.259466626
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2011,
+   "group1": 0.750703633,
+   "group2": 0.130234113,
+   "group3": 0.056603367,
+   "group4": 0.023637756,
+   "group5": 0.038821132
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2012,
+   "group1": 0.669154097,
+   "group2": 0.172330328,
+   "group3": 0.078121532,
+   "group4": 0.033971398,
+   "group5": 0.046422645
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2013,
+   "group1": 0.543049553,
+   "group2": 0.227317084,
+   "group3": 0.113787224,
+   "group4": 0.049982306,
+   "group5": 0.065863833
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2014,
+   "group1": 0.499982327,
+   "group2": 0.252895366,
+   "group3": 0.121222475,
+   "group4": 0.053489167,
+   "group5": 0.072410665
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2015,
+   "group1": 0.448095562,
+   "group2": 0.28419343,
+   "group3": 0.134845707,
+   "group4": 0.058657725,
+   "group5": 0.074207576
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2016,
+   "group1": 0.379093944,
+   "group2": 0.321649976,
+   "group3": 0.153018598,
+   "group4": 0.066704816,
+   "group5": 0.079532666
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2017,
+   "group1": 0.319487202,
+   "group2": 0.343122033,
+   "group3": 0.168371557,
+   "group4": 0.077993169,
+   "group5": 0.091026039
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2018,
+   "group1": 0.240862516,
+   "group2": 0.369030844,
+   "group3": 0.190099682,
+   "group4": 0.089722179,
+   "group5": 0.11028478
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2019,
+   "group1": 0.180924713,
+   "group2": 0.373410464,
+   "group3": 0.218920687,
+   "group4": 0.10196818,
+   "group5": 0.124775957
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2020,
+   "group1": 0.111551438,
+   "group2": 0.315840843,
+   "group3": 0.265416362,
+   "group4": 0.129035515,
+   "group5": 0.178155842
+ },
+ {
+   "geography": "Maricopa County",
+   "year": 2021,
+   "group1": 0.059404063,
+   "group2": 0.16855552,
+   "group3": 0.288455995,
+   "group4": 0.197222096,
+   "group5": 0.286362326
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2012,
+   "group1": 0.885261769,
+   "group2": 0.076374835,
+   "group3": 0.023933128,
+   "group4": 0.007743071,
+   "group5": 0.006687198
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2013,
+   "group1": 0.812444837,
+   "group2": 0.129037952,
+   "group3": 0.039629303,
+   "group4": 0.009973522,
+   "group5": 0.008914387
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2014,
+   "group1": 0.746778886,
+   "group2": 0.170407315,
+   "group3": 0.049875312,
+   "group4": 0.017975894,
+   "group5": 0.014962594
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2015,
+   "group1": 0.716556044,
+   "group2": 0.2011779,
+   "group3": 0.051416285,
+   "group4": 0.017948958,
+   "group5": 0.012900813
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2016,
+   "group1": 0.667807362,
+   "group2": 0.244971204,
+   "group3": 0.057507721,
+   "group4": 0.01627577,
+   "group5": 0.013437943
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2017,
+   "group1": 0.576775501,
+   "group2": 0.318830088,
+   "group3": 0.066893506,
+   "group4": 0.022370231,
+   "group5": 0.015130674
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2018,
+   "group1": 0.447105924,
+   "group2": 0.418538373,
+   "group3": 0.082649114,
+   "group4": 0.030806813,
+   "group5": 0.020899776
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2019,
+   "group1": 0.328450601,
+   "group2": 0.499509684,
+   "group3": 0.106582496,
+   "group4": 0.037570483,
+   "group5": 0.027886737
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2020,
+   "group1": 0.201754889,
+   "group2": 0.518953949,
+   "group3": 0.186672019,
+   "group4": 0.054195102,
+   "group5": 0.038424041
+ },
+ {
+   "geography": "Pinal County",
+   "year": 2021,
+   "group1": 0.104945189,
+   "group2": 0.291693057,
+   "group3": 0.364725944,
+   "group4": 0.151912302,
+   "group5": 0.086723508
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2012,
+   "group1": 0.985491071,
+   "group2": 0.012276786,
+   "group3": 0.002232143,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2013,
+   "group1": 0.979166667,
+   "group2": 0.018640351,
+   "group3": 0.002192982,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2014,
+   "group1": 0.943509615,
+   "group2": 0.044471154,
+   "group3": 0.009615385,
+   "group4": 0.002403846,
+   "group5": 0
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2015,
+   "group1": 0.953813104,
+   "group2": 0.039742213,
+   "group3": 0.004296455,
+   "group4": 0.001074114,
+   "group5": 0.001074114
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2016,
+   "group1": 0.887755102,
+   "group2": 0.097959184,
+   "group3": 0.010204082,
+   "group4": 0.003061224,
+   "group5": 0.001020408
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2017,
+   "group1": 0.831674208,
+   "group2": 0.150226244,
+   "group3": 0.011764706,
+   "group4": 0.006334842,
+   "group5": 0
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2018,
+   "group1": 0.680672269,
+   "group2": 0.290756303,
+   "group3": 0.019327731,
+   "group4": 0.005882353,
+   "group5": 0.003361345
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2019,
+   "group1": 0.544129555,
+   "group2": 0.429959514,
+   "group3": 0.020242915,
+   "group4": 0.00242915,
+   "group5": 0.003238866
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2020,
+   "group1": 0.446351931,
+   "group2": 0.489270386,
+   "group3": 0.049785408,
+   "group4": 0.012875536,
+   "group5": 0.001716738
+ },
+ {
+   "geography": "Apache Junction",
+   "year": 2021,
+   "group1": 0.311355311,
+   "group2": 0.316483516,
+   "group3": 0.32014652,
+   "group4": 0.041758242,
+   "group5": 0.01025641
+ },
+ {
+   "geography": "Avondale",
+   "year": 2011,
+   "group1": 0.985576923,
+   "group2": 0.014423077,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Avondale",
+   "year": 2012,
+   "group1": 0.955500618,
+   "group2": 0.042645241,
+   "group3": 0.001854141,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Avondale",
+   "year": 2013,
+   "group1": 0.860560492,
+   "group2": 0.130553657,
+   "group3": 0.008885851,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Avondale",
+   "year": 2014,
+   "group1": 0.780405405,
+   "group2": 0.210135135,
+   "group3": 0.009459459,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Avondale",
+   "year": 2015,
+   "group1": 0.679141104,
+   "group2": 0.304294479,
+   "group3": 0.015337423,
+   "group4": 0.001226994,
+   "group5": 0
+ },
+ {
+   "geography": "Avondale",
+   "year": 2016,
+   "group1": 0.546536797,
+   "group2": 0.433982684,
+   "group3": 0.019480519,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Avondale",
+   "year": 2017,
+   "group1": 0.381846635,
+   "group2": 0.568596766,
+   "group3": 0.047470005,
+   "group4": 0.002086594,
+   "group5": 0
+ },
+ {
+   "geography": "Avondale",
+   "year": 2018,
+   "group1": 0.230037017,
+   "group2": 0.707562136,
+   "group3": 0.060285563,
+   "group4": 0.002115283,
+   "group5": 0
+ },
+ {
+   "geography": "Avondale",
+   "year": 2019,
+   "group1": 0.117352614,
+   "group2": 0.735817575,
+   "group3": 0.141268076,
+   "group4": 0.005005562,
+   "group5": 0.000556174
+ },
+ {
+   "geography": "Avondale",
+   "year": 2020,
+   "group1": 0.075147929,
+   "group2": 0.615384615,
+   "group3": 0.29112426,
+   "group4": 0.017159763,
+   "group5": 0.001183432
+ },
+ {
+   "geography": "Avondale",
+   "year": 2021,
+   "group1": 0.034361233,
+   "group2": 0.163436123,
+   "group3": 0.564757709,
+   "group4": 0.208810573,
+   "group5": 0.028634361
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2011,
+   "group1": 0.866604478,
+   "group2": 0.107742537,
+   "group3": 0.022854478,
+   "group4": 0.00233209,
+   "group5": 0.000466418
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2012,
+   "group1": 0.816373728,
+   "group2": 0.128584644,
+   "group3": 0.051341351,
+   "group4": 0.003237743,
+   "group5": 0.000462535
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2013,
+   "group1": 0.686346863,
+   "group2": 0.214483395,
+   "group3": 0.082564576,
+   "group4": 0.014298893,
+   "group5": 0.002306273
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2014,
+   "group1": 0.648410758,
+   "group2": 0.236185819,
+   "group3": 0.083618582,
+   "group4": 0.026894866,
+   "group5": 0.004889976
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2015,
+   "group1": 0.579540878,
+   "group2": 0.290374547,
+   "group3": 0.085380588,
+   "group4": 0.031010874,
+   "group5": 0.013693113
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2016,
+   "group1": 0.497356246,
+   "group2": 0.3559154,
+   "group3": 0.10806345,
+   "group4": 0.028420357,
+   "group5": 0.010244547
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2017,
+   "group1": 0.409138933,
+   "group2": 0.427099842,
+   "group3": 0.116481775,
+   "group4": 0.031959852,
+   "group5": 0.015319599
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2018,
+   "group1": 0.266894977,
+   "group2": 0.540410959,
+   "group3": 0.13630137,
+   "group4": 0.038356164,
+   "group5": 0.01803653
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2019,
+   "group1": 0.13231825,
+   "group2": 0.622346129,
+   "group3": 0.16641647,
+   "group4": 0.049967832,
+   "group5": 0.028951319
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2020,
+   "group1": 0.021451222,
+   "group2": 0.591867189,
+   "group3": 0.263756762,
+   "group4": 0.072934154,
+   "group5": 0.049990673
+ },
+ {
+   "geography": "Buckeye",
+   "year": 2021,
+   "group1": 0.005990017,
+   "group2": 0.208319468,
+   "group3": 0.480033278,
+   "group4": 0.199334443,
+   "group5": 0.106322795
+ },
+ {
+   "geography": "Carefree",
+   "year": 2011,
+   "group1": 0.114285714,
+   "group2": 0.242857143,
+   "group3": 0.142857143,
+   "group4": 0.1,
+   "group5": 0.4
+ },
+ {
+   "geography": "Carefree",
+   "year": 2012,
+   "group1": 0.097560976,
+   "group2": 0.158536585,
+   "group3": 0.170731707,
+   "group4": 0.140243902,
+   "group5": 0.432926829
+ },
+ {
+   "geography": "Carefree",
+   "year": 2013,
+   "group1": 0.105882353,
+   "group2": 0.147058824,
+   "group3": 0.058823529,
+   "group4": 0.152941176,
+   "group5": 0.535294118
+ },
+ {
+   "geography": "Carefree",
+   "year": 2014,
+   "group1": 0.071428571,
+   "group2": 0.107142857,
+   "group3": 0.0625,
+   "group4": 0.169642857,
+   "group5": 0.589285714
+ },
+ {
+   "geography": "Carefree",
+   "year": 2015,
+   "group1": 0.02970297,
+   "group2": 0.128712871,
+   "group3": 0.074257426,
+   "group4": 0.158415842,
+   "group5": 0.608910891
+ },
+ {
+   "geography": "Carefree",
+   "year": 2016,
+   "group1": 0.027586207,
+   "group2": 0.096551724,
+   "group3": 0.110344828,
+   "group4": 0.124137931,
+   "group5": 0.64137931
+ },
+ {
+   "geography": "Carefree",
+   "year": 2017,
+   "group1": 0.069651741,
+   "group2": 0.144278607,
+   "group3": 0.069651741,
+   "group4": 0.094527363,
+   "group5": 0.621890547
+ },
+ {
+   "geography": "Carefree",
+   "year": 2018,
+   "group1": 0.091743119,
+   "group2": 0.114678899,
+   "group3": 0.100917431,
+   "group4": 0.082568807,
+   "group5": 0.610091743
+ },
+ {
+   "geography": "Carefree",
+   "year": 2019,
+   "group1": 0.027624309,
+   "group2": 0.060773481,
+   "group3": 0.077348066,
+   "group4": 0.127071823,
+   "group5": 0.70718232
+ },
+ {
+   "geography": "Carefree",
+   "year": 2020,
+   "group1": 0.024193548,
+   "group2": 0.032258065,
+   "group3": 0.120967742,
+   "group4": 0.048387097,
+   "group5": 0.774193548
+ },
+ {
+   "geography": "Carefree",
+   "year": 2021,
+   "group1": 0,
+   "group2": 0.042735043,
+   "group3": 0.038461538,
+   "group4": 0.08974359,
+   "group5": 0.829059829
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2011,
+   "group1": 0.198529412,
+   "group2": 0.095588235,
+   "group3": 0.191176471,
+   "group4": 0.095588235,
+   "group5": 0.419117647
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2012,
+   "group1": 0.078431373,
+   "group2": 0.183006536,
+   "group3": 0.222222222,
+   "group4": 0.189542484,
+   "group5": 0.326797386
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2013,
+   "group1": 0.054644809,
+   "group2": 0.218579235,
+   "group3": 0.207650273,
+   "group4": 0.18579235,
+   "group5": 0.333333333
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2014,
+   "group1": 0.039473684,
+   "group2": 0.151315789,
+   "group3": 0.263157895,
+   "group4": 0.092105263,
+   "group5": 0.453947368
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2015,
+   "group1": 0.068181818,
+   "group2": 0.174242424,
+   "group3": 0.227272727,
+   "group4": 0.113636364,
+   "group5": 0.416666667
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2016,
+   "group1": 0.065693431,
+   "group2": 0.065693431,
+   "group3": 0.226277372,
+   "group4": 0.160583942,
+   "group5": 0.481751825
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2017,
+   "group1": 0.01986755,
+   "group2": 0.112582781,
+   "group3": 0.264900662,
+   "group4": 0.105960265,
+   "group5": 0.496688742
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2018,
+   "group1": 0.048780488,
+   "group2": 0.103658537,
+   "group3": 0.182926829,
+   "group4": 0.115853659,
+   "group5": 0.548780488
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2019,
+   "group1": 0.018987342,
+   "group2": 0.025316456,
+   "group3": 0.17721519,
+   "group4": 0.17721519,
+   "group5": 0.601265823
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2020,
+   "group1": 0.018779343,
+   "group2": 0.028169014,
+   "group3": 0.17370892,
+   "group4": 0.145539906,
+   "group5": 0.633802817
+ },
+ {
+   "geography": "Cave Creek",
+   "year": 2021,
+   "group1": 0,
+   "group2": 0.016326531,
+   "group3": 0.048979592,
+   "group4": 0.134693878,
+   "group5": 0.8
+ },
+ {
+   "geography": "Chandler",
+   "year": 2011,
+   "group1": 0.619200571,
+   "group2": 0.201106353,
+   "group3": 0.110992148,
+   "group4": 0.040328337,
+   "group5": 0.028372591
+ },
+ {
+   "geography": "Chandler",
+   "year": 2012,
+   "group1": 0.522184904,
+   "group2": 0.24606682,
+   "group3": 0.135053916,
+   "group4": 0.053208414,
+   "group5": 0.043485947
+ },
+ {
+   "geography": "Chandler",
+   "year": 2013,
+   "group1": 0.387630015,
+   "group2": 0.291604755,
+   "group3": 0.190564636,
+   "group4": 0.077080238,
+   "group5": 0.053120357
+ },
+ {
+   "geography": "Chandler",
+   "year": 2014,
+   "group1": 0.336462244,
+   "group2": 0.328118481,
+   "group3": 0.195661243,
+   "group4": 0.086357947,
+   "group5": 0.053400083
+ },
+ {
+   "geography": "Chandler",
+   "year": 2015,
+   "group1": 0.264320345,
+   "group2": 0.356078291,
+   "group3": 0.219428982,
+   "group4": 0.093374035,
+   "group5": 0.066798348
+ },
+ {
+   "geography": "Chandler",
+   "year": 2016,
+   "group1": 0.192302042,
+   "group2": 0.384897899,
+   "group3": 0.225062436,
+   "group4": 0.119582782,
+   "group5": 0.078154841
+ },
+ {
+   "geography": "Chandler",
+   "year": 2017,
+   "group1": 0.139256071,
+   "group2": 0.380418076,
+   "group3": 0.256532432,
+   "group4": 0.129111589,
+   "group5": 0.094681832
+ },
+ {
+   "geography": "Chandler",
+   "year": 2018,
+   "group1": 0.106896552,
+   "group2": 0.367554859,
+   "group3": 0.276018809,
+   "group4": 0.147648903,
+   "group5": 0.101880878
+ },
+ {
+   "geography": "Chandler",
+   "year": 2019,
+   "group1": 0.091449695,
+   "group2": 0.327708132,
+   "group3": 0.297974928,
+   "group4": 0.156219865,
+   "group5": 0.12664738
+ },
+ {
+   "geography": "Chandler",
+   "year": 2020,
+   "group1": 0.048301082,
+   "group2": 0.190918787,
+   "group3": 0.377114125,
+   "group4": 0.203413073,
+   "group5": 0.180252933
+ },
+ {
+   "geography": "Chandler",
+   "year": 2021,
+   "group1": 0.017459625,
+   "group2": 0.087734614,
+   "group3": 0.259711916,
+   "group4": 0.269169213,
+   "group5": 0.365924633
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2011,
+   "group1": 0.994481236,
+   "group2": 0.004415011,
+   "group3": 0.001103753,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2012,
+   "group1": 0.993573265,
+   "group2": 0.006426735,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2013,
+   "group1": 0.988204456,
+   "group2": 0.010484928,
+   "group3": 0.001310616,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2014,
+   "group1": 0.966226138,
+   "group2": 0.032305433,
+   "group3": 0.001468429,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2015,
+   "group1": 0.968834688,
+   "group2": 0.027100271,
+   "group3": 0.002710027,
+   "group4": 0.001355014,
+   "group5": 0
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2016,
+   "group1": 0.947813822,
+   "group2": 0.046544429,
+   "group3": 0.002820874,
+   "group4": 0.002820874,
+   "group5": 0
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2017,
+   "group1": 0.873221216,
+   "group2": 0.12160414,
+   "group3": 0.001293661,
+   "group4": 0.001293661,
+   "group5": 0.002587322
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2018,
+   "group1": 0.614980289,
+   "group2": 0.373193167,
+   "group3": 0.009198423,
+   "group4": 0.002628121,
+   "group5": 0
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2019,
+   "group1": 0.320777643,
+   "group2": 0.657351154,
+   "group3": 0.018226002,
+   "group4": 0.0036452,
+   "group5": 0
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2020,
+   "group1": 0.103362391,
+   "group2": 0.849315068,
+   "group3": 0.0373599,
+   "group4": 0.00622665,
+   "group5": 0.00373599
+ },
+ {
+   "geography": "El Mirage",
+   "year": 2021,
+   "group1": 0.044917258,
+   "group2": 0.346335697,
+   "group3": 0.543735225,
+   "group4": 0.057919622,
+   "group5": 0.007092199
+ },
+ {
+   "geography": "Florence",
+   "year": 2012,
+   "group1": 0.863402062,
+   "group2": 0.108247423,
+   "group3": 0.025773196,
+   "group4": 0.00257732,
+   "group5": 0
+ },
+ {
+   "geography": "Florence",
+   "year": 2013,
+   "group1": 0.745417515,
+   "group2": 0.195519348,
+   "group3": 0.050916497,
+   "group4": 0.00610998,
+   "group5": 0.00203666
+ },
+ {
+   "geography": "Florence",
+   "year": 2014,
+   "group1": 0.670859539,
+   "group2": 0.259958071,
+   "group3": 0.062893082,
+   "group4": 0.006289308,
+   "group5": 0
+ },
+ {
+   "geography": "Florence",
+   "year": 2015,
+   "group1": 0.644135189,
+   "group2": 0.282306163,
+   "group3": 0.073558648,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Florence",
+   "year": 2016,
+   "group1": 0.626373626,
+   "group2": 0.313186813,
+   "group3": 0.051282051,
+   "group4": 0.009157509,
+   "group5": 0
+ },
+ {
+   "geography": "Florence",
+   "year": 2017,
+   "group1": 0.565420561,
+   "group2": 0.328660436,
+   "group3": 0.096573209,
+   "group4": 0.009345794,
+   "group5": 0
+ },
+ {
+   "geography": "Florence",
+   "year": 2018,
+   "group1": 0.493741307,
+   "group2": 0.388038943,
+   "group3": 0.104311544,
+   "group4": 0.012517385,
+   "group5": 0.001390821
+ },
+ {
+   "geography": "Florence",
+   "year": 2019,
+   "group1": 0.418781726,
+   "group2": 0.395939086,
+   "group3": 0.149746193,
+   "group4": 0.029187817,
+   "group5": 0.006345178
+ },
+ {
+   "geography": "Florence",
+   "year": 2020,
+   "group1": 0.285423038,
+   "group2": 0.470948012,
+   "group3": 0.199796126,
+   "group4": 0.04077472,
+   "group5": 0.003058104
+ },
+ {
+   "geography": "Florence",
+   "year": 2021,
+   "group1": 0.233261339,
+   "group2": 0.264578834,
+   "group3": 0.333693305,
+   "group4": 0.144708423,
+   "group5": 0.023758099
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2011,
+   "group1": 0.405269762,
+   "group2": 0.223337516,
+   "group3": 0.151819322,
+   "group4": 0.08531995,
+   "group5": 0.13425345
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2012,
+   "group1": 0.35208099,
+   "group2": 0.231721035,
+   "group3": 0.193475816,
+   "group4": 0.087739033,
+   "group5": 0.134983127
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2013,
+   "group1": 0.254587156,
+   "group2": 0.224770642,
+   "group3": 0.221330275,
+   "group4": 0.122706422,
+   "group5": 0.176605505
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2014,
+   "group1": 0.216041397,
+   "group2": 0.228978008,
+   "group3": 0.243208279,
+   "group4": 0.117723157,
+   "group5": 0.194049159
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2015,
+   "group1": 0.228273465,
+   "group2": 0.215527231,
+   "group3": 0.206257242,
+   "group4": 0.139049826,
+   "group5": 0.210892236
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2016,
+   "group1": 0.224008574,
+   "group2": 0.230439443,
+   "group3": 0.217577706,
+   "group4": 0.144694534,
+   "group5": 0.183279743
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2017,
+   "group1": 0.198552223,
+   "group2": 0.185108583,
+   "group3": 0.222337125,
+   "group4": 0.163391934,
+   "group5": 0.230610134
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2018,
+   "group1": 0.172281039,
+   "group2": 0.183830606,
+   "group3": 0.199230029,
+   "group4": 0.143407122,
+   "group5": 0.301251203
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2019,
+   "group1": 0.130718954,
+   "group2": 0.168067227,
+   "group3": 0.217553688,
+   "group4": 0.177404295,
+   "group5": 0.306255836
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2020,
+   "group1": 0.079065588,
+   "group2": 0.151841869,
+   "group3": 0.174303684,
+   "group4": 0.180592992,
+   "group5": 0.414195867
+ },
+ {
+   "geography": "Fountain Hills",
+   "year": 2021,
+   "group1": 0.028549383,
+   "group2": 0.151234568,
+   "group3": 0.128858025,
+   "group4": 0.142746914,
+   "group5": 0.548611111
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2011,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2012,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2013,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2014,
+   "group1": 0.818181818,
+   "group2": 0.090909091,
+   "group3": 0.090909091,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2015,
+   "group1": 0.818181818,
+   "group2": 0.090909091,
+   "group3": 0.090909091,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2016,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2017,
+   "group1": 0.888888889,
+   "group2": 0,
+   "group3": 0.111111111,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2018,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2019,
+   "group1": 0.944444444,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0.055555556
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2020,
+   "group1": 0.916666667,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0.083333333,
+   "group5": 0
+ },
+ {
+   "geography": "Gila Bend",
+   "year": 2021,
+   "group1": 0.875,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0.125,
+   "group5": 0
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2011,
+   "group1": 0.653568565,
+   "group2": 0.245388933,
+   "group3": 0.070890136,
+   "group4": 0.016359262,
+   "group5": 0.013793103
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2012,
+   "group1": 0.478218238,
+   "group2": 0.354391371,
+   "group3": 0.115702479,
+   "group4": 0.031236868,
+   "group5": 0.020451044
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2013,
+   "group1": 0.255844729,
+   "group2": 0.418320835,
+   "group3": 0.217615057,
+   "group4": 0.068666373,
+   "group5": 0.039553007
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2014,
+   "group1": 0.210135775,
+   "group2": 0.434164825,
+   "group3": 0.223397537,
+   "group4": 0.083833281,
+   "group5": 0.048468582
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2015,
+   "group1": 0.142363112,
+   "group2": 0.469164265,
+   "group3": 0.247982709,
+   "group4": 0.089193084,
+   "group5": 0.05129683
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2016,
+   "group1": 0.087608524,
+   "group2": 0.479610629,
+   "group3": 0.265061826,
+   "group4": 0.093528019,
+   "group5": 0.074191002
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2017,
+   "group1": 0.048864237,
+   "group2": 0.432910724,
+   "group3": 0.307316429,
+   "group4": 0.125858426,
+   "group5": 0.085050185
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2018,
+   "group1": 0.024438573,
+   "group2": 0.364068692,
+   "group3": 0.349537649,
+   "group4": 0.15323646,
+   "group5": 0.108718626
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2019,
+   "group1": 0.018018018,
+   "group2": 0.281629456,
+   "group3": 0.37694216,
+   "group4": 0.17430474,
+   "group5": 0.149105627
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2020,
+   "group1": 0.009256738,
+   "group2": 0.132589164,
+   "group3": 0.420500953,
+   "group4": 0.217261094,
+   "group5": 0.22039205
+ },
+ {
+   "geography": "Gilbert",
+   "year": 2021,
+   "group1": 0.002579419,
+   "group2": 0.027966332,
+   "group3": 0.187754548,
+   "group4": 0.319576432,
+   "group5": 0.462123269
+ },
+ {
+   "geography": "Glendale",
+   "year": 2011,
+   "group1": 0.884321224,
+   "group2": 0.09249522,
+   "group3": 0.014818356,
+   "group4": 0.004541109,
+   "group5": 0.003824092
+ },
+ {
+   "geography": "Glendale",
+   "year": 2012,
+   "group1": 0.827230047,
+   "group2": 0.131220657,
+   "group3": 0.025117371,
+   "group4": 0.011032864,
+   "group5": 0.005399061
+ },
+ {
+   "geography": "Glendale",
+   "year": 2013,
+   "group1": 0.698554534,
+   "group2": 0.206570302,
+   "group3": 0.067542707,
+   "group4": 0.018134034,
+   "group5": 0.009198423
+ },
+ {
+   "geography": "Glendale",
+   "year": 2014,
+   "group1": 0.693467337,
+   "group2": 0.213715637,
+   "group3": 0.068282589,
+   "group4": 0.014779781,
+   "group5": 0.009754656
+ },
+ {
+   "geography": "Glendale",
+   "year": 2015,
+   "group1": 0.633453795,
+   "group2": 0.247547754,
+   "group3": 0.086990191,
+   "group4": 0.021424884,
+   "group5": 0.010583376
+ },
+ {
+   "geography": "Glendale",
+   "year": 2016,
+   "group1": 0.553770087,
+   "group2": 0.309765142,
+   "group3": 0.100123609,
+   "group4": 0.025957973,
+   "group5": 0.010383189
+ },
+ {
+   "geography": "Glendale",
+   "year": 2017,
+   "group1": 0.477156229,
+   "group2": 0.360597281,
+   "group3": 0.114998886,
+   "group4": 0.034098507,
+   "group5": 0.013149097
+ },
+ {
+   "geography": "Glendale",
+   "year": 2018,
+   "group1": 0.377177311,
+   "group2": 0.425189817,
+   "group3": 0.133988388,
+   "group4": 0.044216168,
+   "group5": 0.019428316
+ },
+ {
+   "geography": "Glendale",
+   "year": 2019,
+   "group1": 0.286783576,
+   "group2": 0.461291702,
+   "group3": 0.176005133,
+   "group4": 0.055816938,
+   "group5": 0.020102652
+ },
+ {
+   "geography": "Glendale",
+   "year": 2020,
+   "group1": 0.195945946,
+   "group2": 0.409133271,
+   "group3": 0.259552656,
+   "group4": 0.089002796,
+   "group5": 0.046365331
+ },
+ {
+   "geography": "Glendale",
+   "year": 2021,
+   "group1": 0.100466382,
+   "group2": 0.21414691,
+   "group3": 0.373882627,
+   "group4": 0.180917217,
+   "group5": 0.130586864
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2011,
+   "group1": 0.684977112,
+   "group2": 0.218060757,
+   "group3": 0.066999584,
+   "group4": 0.021223471,
+   "group5": 0.008739076
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2012,
+   "group1": 0.551118211,
+   "group2": 0.315495208,
+   "group3": 0.09784345,
+   "group4": 0.028753994,
+   "group5": 0.006789137
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2013,
+   "group1": 0.417365925,
+   "group2": 0.374315943,
+   "group3": 0.147756293,
+   "group4": 0.044144473,
+   "group5": 0.016417366
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2014,
+   "group1": 0.333055092,
+   "group2": 0.393989983,
+   "group3": 0.19490818,
+   "group4": 0.054674457,
+   "group5": 0.023372287
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2015,
+   "group1": 0.298513011,
+   "group2": 0.409665428,
+   "group3": 0.20260223,
+   "group4": 0.064684015,
+   "group5": 0.024535316
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2016,
+   "group1": 0.218146086,
+   "group2": 0.474942679,
+   "group3": 0.205044219,
+   "group4": 0.066491975,
+   "group5": 0.035375041
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2017,
+   "group1": 0.140709946,
+   "group2": 0.494723377,
+   "group3": 0.238567317,
+   "group4": 0.082507195,
+   "group5": 0.043492165
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2018,
+   "group1": 0.069767442,
+   "group2": 0.486861975,
+   "group3": 0.280579885,
+   "group4": 0.102990033,
+   "group5": 0.059800664
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2019,
+   "group1": 0.036471586,
+   "group2": 0.452360758,
+   "group3": 0.317500707,
+   "group4": 0.132598247,
+   "group5": 0.061068702
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2020,
+   "group1": 0.009661836,
+   "group2": 0.34274091,
+   "group3": 0.383168065,
+   "group4": 0.174421561,
+   "group5": 0.090007628
+ },
+ {
+   "geography": "Goodyear",
+   "year": 2021,
+   "group1": 0.006141947,
+   "group2": 0.081210191,
+   "group3": 0.380573248,
+   "group4": 0.307324841,
+   "group5": 0.224749773
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2011,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2012,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2013,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2014,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2015,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2016,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2017,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2018,
+   "group1": 0.9,
+   "group2": 0.1,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2019,
+   "group1": 0.846153846,
+   "group2": 0.153846154,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2020,
+   "group1": 0.857142857,
+   "group2": 0.071428571,
+   "group3": 0.071428571,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Guadalupe",
+   "year": 2021,
+   "group1": 0.5,
+   "group2": 0.2,
+   "group3": 0.2,
+   "group4": 0,
+   "group5": 0.1
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2011,
+   "group1": 0.585714286,
+   "group2": 0.223809524,
+   "group3": 0.138095238,
+   "group4": 0.014285714,
+   "group5": 0.038095238
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2012,
+   "group1": 0.412017167,
+   "group2": 0.334763948,
+   "group3": 0.158798283,
+   "group4": 0.060085837,
+   "group5": 0.034334764
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2013,
+   "group1": 0.325991189,
+   "group2": 0.220264317,
+   "group3": 0.299559471,
+   "group4": 0.0969163,
+   "group5": 0.057268722
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2014,
+   "group1": 0.315789474,
+   "group2": 0.252631579,
+   "group3": 0.2,
+   "group4": 0.126315789,
+   "group5": 0.105263158
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2015,
+   "group1": 0.29047619,
+   "group2": 0.242857143,
+   "group3": 0.19047619,
+   "group4": 0.142857143,
+   "group5": 0.133333333
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2016,
+   "group1": 0.255813953,
+   "group2": 0.240310078,
+   "group3": 0.178294574,
+   "group4": 0.170542636,
+   "group5": 0.15503876
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2017,
+   "group1": 0.21509434,
+   "group2": 0.169811321,
+   "group3": 0.196226415,
+   "group4": 0.256603774,
+   "group5": 0.162264151
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2018,
+   "group1": 0.180379747,
+   "group2": 0.180379747,
+   "group3": 0.262658228,
+   "group4": 0.202531646,
+   "group5": 0.174050633
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2019,
+   "group1": 0.156133829,
+   "group2": 0.148698885,
+   "group3": 0.215613383,
+   "group4": 0.215613383,
+   "group5": 0.26394052
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2020,
+   "group1": 0.085714286,
+   "group2": 0.15,
+   "group3": 0.182142857,
+   "group4": 0.257142857,
+   "group5": 0.325
+ },
+ {
+   "geography": "Litchfield Park",
+   "year": 2021,
+   "group1": 0.025830258,
+   "group2": 0.15498155,
+   "group3": 0.188191882,
+   "group4": 0.199261993,
+   "group5": 0.431734317
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2012,
+   "group1": 0.947275144,
+   "group2": 0.048294196,
+   "group3": 0.003987594,
+   "group4": 0.000443066,
+   "group5": 0
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2013,
+   "group1": 0.874885005,
+   "group2": 0.118215271,
+   "group3": 0.006439742,
+   "group4": 0.000459982,
+   "group5": 0
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2014,
+   "group1": 0.815789474,
+   "group2": 0.170134639,
+   "group3": 0.013463892,
+   "group4": 0.000611995,
+   "group5": 0
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2015,
+   "group1": 0.78559914,
+   "group2": 0.199355185,
+   "group3": 0.012358947,
+   "group4": 0.002686728,
+   "group5": 0
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2016,
+   "group1": 0.734052993,
+   "group2": 0.246810599,
+   "group3": 0.018155054,
+   "group4": 0.000981354,
+   "group5": 0
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2017,
+   "group1": 0.625896246,
+   "group2": 0.336566849,
+   "group3": 0.036271615,
+   "group4": 0.001265289,
+   "group5": 0
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2018,
+   "group1": 0.467609829,
+   "group2": 0.478406552,
+   "group3": 0.051005212,
+   "group4": 0.002233805,
+   "group5": 0.000744602
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2019,
+   "group1": 0.305508618,
+   "group2": 0.605947955,
+   "group3": 0.080094627,
+   "group4": 0.0084488,
+   "group5": 0
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2020,
+   "group1": 0.082322073,
+   "group2": 0.709412922,
+   "group3": 0.186290587,
+   "group4": 0.021318465,
+   "group5": 0.000655953
+ },
+ {
+   "geography": "Maricopa",
+   "year": 2021,
+   "group1": 0.010791367,
+   "group2": 0.300102775,
+   "group3": 0.528776978,
+   "group4": 0.142086331,
+   "group5": 0.018242549
+ },
+ {
+   "geography": "Mesa",
+   "year": 2011,
+   "group1": 0.841092211,
+   "group2": 0.098589973,
+   "group3": 0.034019696,
+   "group4": 0.01152641,
+   "group5": 0.01477171
+ },
+ {
+   "geography": "Mesa",
+   "year": 2012,
+   "group1": 0.762866235,
+   "group2": 0.152200154,
+   "group3": 0.049928673,
+   "group4": 0.019642269,
+   "group5": 0.015362669
+ },
+ {
+   "geography": "Mesa",
+   "year": 2013,
+   "group1": 0.643244392,
+   "group2": 0.221643457,
+   "group3": 0.080046774,
+   "group4": 0.028489423,
+   "group5": 0.026575954
+ },
+ {
+   "geography": "Mesa",
+   "year": 2014,
+   "group1": 0.591633466,
+   "group2": 0.259738822,
+   "group3": 0.093293493,
+   "group4": 0.03187251,
+   "group5": 0.023461709
+ },
+ {
+   "geography": "Mesa",
+   "year": 2015,
+   "group1": 0.520118343,
+   "group2": 0.31469428,
+   "group3": 0.105621302,
+   "group4": 0.032248521,
+   "group5": 0.027317554
+ },
+ {
+   "geography": "Mesa",
+   "year": 2016,
+   "group1": 0.425043328,
+   "group2": 0.369584055,
+   "group3": 0.13882149,
+   "group4": 0.040554593,
+   "group5": 0.025996534
+ },
+ {
+   "geography": "Mesa",
+   "year": 2017,
+   "group1": 0.342343044,
+   "group2": 0.403957003,
+   "group3": 0.160383237,
+   "group4": 0.057875058,
+   "group5": 0.035441658
+ },
+ {
+   "geography": "Mesa",
+   "year": 2018,
+   "group1": 0.261381896,
+   "group2": 0.428494912,
+   "group3": 0.189455964,
+   "group4": 0.069630423,
+   "group5": 0.051036805
+ },
+ {
+   "geography": "Mesa",
+   "year": 2019,
+   "group1": 0.20991005,
+   "group2": 0.388725186,
+   "group3": 0.253411911,
+   "group4": 0.086073201,
+   "group5": 0.061879653
+ },
+ {
+   "geography": "Mesa",
+   "year": 2020,
+   "group1": 0.153019814,
+   "group2": 0.31065489,
+   "group3": 0.310416169,
+   "group4": 0.123975491,
+   "group5": 0.101933636
+ },
+ {
+   "geography": "Mesa",
+   "year": 2021,
+   "group1": 0.09380651,
+   "group2": 0.18007836,
+   "group3": 0.301009644,
+   "group4": 0.219559976,
+   "group5": 0.205545509
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2011,
+   "group1": 0.005319149,
+   "group2": 0.007978723,
+   "group3": 0.013297872,
+   "group4": 0.066489362,
+   "group5": 0.906914894
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2012,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0.002873563,
+   "group4": 0.022988506,
+   "group5": 0.974137931
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2013,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0.002762431,
+   "group4": 0.011049724,
+   "group5": 0.986187845
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2014,
+   "group1": 0.002849003,
+   "group2": 0.002849003,
+   "group3": 0,
+   "group4": 0.008547009,
+   "group5": 0.985754986
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2015,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0.00286533,
+   "group5": 0.99713467
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2016,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0.003134796,
+   "group5": 0.996865204
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2017,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 1
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2018,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 1
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2019,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0.002309469,
+   "group5": 0.997690531
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2020,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 1
+ },
+ {
+   "geography": "Paradise Valley",
+   "year": 2021,
+   "group1": 0,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 1
+ },
+ {
+   "geography": "Peoria",
+   "year": 2011,
+   "group1": 0.728293939,
+   "group2": 0.168265855,
+   "group3": 0.071846478,
+   "group4": 0.022466651,
+   "group5": 0.009127077
+ },
+ {
+   "geography": "Peoria",
+   "year": 2012,
+   "group1": 0.608307172,
+   "group2": 0.234484424,
+   "group3": 0.108427916,
+   "group4": 0.035981647,
+   "group5": 0.012798841
+ },
+ {
+   "geography": "Peoria",
+   "year": 2013,
+   "group1": 0.464522017,
+   "group2": 0.284964636,
+   "group3": 0.15149441,
+   "group4": 0.062286105,
+   "group5": 0.036732831
+ },
+ {
+   "geography": "Peoria",
+   "year": 2014,
+   "group1": 0.370625924,
+   "group2": 0.338836865,
+   "group3": 0.185805816,
+   "group4": 0.05643174,
+   "group5": 0.048299655
+ },
+ {
+   "geography": "Peoria",
+   "year": 2015,
+   "group1": 0.333981842,
+   "group2": 0.35970601,
+   "group3": 0.19022914,
+   "group4": 0.069822741,
+   "group5": 0.046260268
+ },
+ {
+   "geography": "Peoria",
+   "year": 2016,
+   "group1": 0.26256139,
+   "group2": 0.364374764,
+   "group3": 0.225538345,
+   "group4": 0.088024178,
+   "group5": 0.059501322
+ },
+ {
+   "geography": "Peoria",
+   "year": 2017,
+   "group1": 0.213471503,
+   "group2": 0.360276339,
+   "group3": 0.236096718,
+   "group4": 0.114507772,
+   "group5": 0.075647668
+ },
+ {
+   "geography": "Peoria",
+   "year": 2018,
+   "group1": 0.14616882,
+   "group2": 0.356397098,
+   "group3": 0.256414794,
+   "group4": 0.138736507,
+   "group5": 0.102282782
+ },
+ {
+   "geography": "Peoria",
+   "year": 2019,
+   "group1": 0.097856641,
+   "group2": 0.350667604,
+   "group3": 0.275650035,
+   "group4": 0.152494729,
+   "group5": 0.123330991
+ },
+ {
+   "geography": "Peoria",
+   "year": 2020,
+   "group1": 0.067201092,
+   "group2": 0.264710899,
+   "group3": 0.281425891,
+   "group4": 0.1874467,
+   "group5": 0.199215419
+ },
+ {
+   "geography": "Peoria",
+   "year": 2021,
+   "group1": 0.029168774,
+   "group2": 0.121396055,
+   "group3": 0.269937616,
+   "group4": 0.238071152,
+   "group5": 0.341426404
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2011,
+   "group1": 0.828613634,
+   "group2": 0.093126316,
+   "group3": 0.042681585,
+   "group4": 0.016343464,
+   "group5": 0.019235
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2012,
+   "group1": 0.751261739,
+   "group2": 0.126493324,
+   "group3": 0.064173002,
+   "group4": 0.028812368,
+   "group5": 0.029259567
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2013,
+   "group1": 0.639808808,
+   "group2": 0.166268351,
+   "group3": 0.097132127,
+   "group4": 0.045988392,
+   "group5": 0.050802322
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2014,
+   "group1": 0.599454098,
+   "group2": 0.196024912,
+   "group3": 0.095494387,
+   "group4": 0.049438721,
+   "group5": 0.059587883
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2015,
+   "group1": 0.550941101,
+   "group2": 0.22329605,
+   "group3": 0.111479066,
+   "group4": 0.05254621,
+   "group5": 0.061737573
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2016,
+   "group1": 0.493966389,
+   "group2": 0.254327774,
+   "group3": 0.122978266,
+   "group4": 0.059577963,
+   "group5": 0.069149608
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2017,
+   "group1": 0.42930999,
+   "group2": 0.292894281,
+   "group3": 0.134711982,
+   "group4": 0.06703287,
+   "group5": 0.076050877
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2018,
+   "group1": 0.334135856,
+   "group2": 0.339524219,
+   "group3": 0.153883634,
+   "group4": 0.07718544,
+   "group5": 0.095270851
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2019,
+   "group1": 0.258613416,
+   "group2": 0.374349599,
+   "group3": 0.171227675,
+   "group4": 0.084404444,
+   "group5": 0.111404866
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2020,
+   "group1": 0.165136815,
+   "group2": 0.359931447,
+   "group3": 0.206413757,
+   "group4": 0.105472608,
+   "group5": 0.163045373
+ },
+ {
+   "geography": "Phoenix",
+   "year": 2021,
+   "group1": 0.088858441,
+   "group2": 0.217020629,
+   "group3": 0.292913146,
+   "group4": 0.161604628,
+   "group5": 0.239603156
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2011,
+   "group1": 0.60430839,
+   "group2": 0.299319728,
+   "group3": 0.074829932,
+   "group4": 0.01814059,
+   "group5": 0.003401361
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2012,
+   "group1": 0.435430464,
+   "group2": 0.349337748,
+   "group3": 0.144039735,
+   "group4": 0.052980132,
+   "group5": 0.018211921
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2013,
+   "group1": 0.286343612,
+   "group2": 0.376101322,
+   "group3": 0.227973568,
+   "group4": 0.067731278,
+   "group5": 0.04185022
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2014,
+   "group1": 0.152700186,
+   "group2": 0.370577281,
+   "group3": 0.299193048,
+   "group4": 0.114214773,
+   "group5": 0.063314711
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2015,
+   "group1": 0.112527716,
+   "group2": 0.401884701,
+   "group3": 0.304323725,
+   "group4": 0.10864745,
+   "group5": 0.072616408
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2016,
+   "group1": 0.067539046,
+   "group2": 0.393837062,
+   "group3": 0.352891515,
+   "group4": 0.104685521,
+   "group5": 0.081046855
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2017,
+   "group1": 0.022735885,
+   "group2": 0.395225464,
+   "group3": 0.35392194,
+   "group4": 0.148920045,
+   "group5": 0.079196665
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2018,
+   "group1": 0.00804403,
+   "group2": 0.311176969,
+   "group3": 0.3361558,
+   "group4": 0.214225233,
+   "group5": 0.130397968
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2019,
+   "group1": 0.003157562,
+   "group2": 0.209346385,
+   "group3": 0.38174929,
+   "group4": 0.250394695,
+   "group5": 0.155352068
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2020,
+   "group1": 0.003124112,
+   "group2": 0.075262709,
+   "group3": 0.399886396,
+   "group4": 0.302470889,
+   "group5": 0.219255893
+ },
+ {
+   "geography": "Queen Creek",
+   "year": 2021,
+   "group1": 0.001223616,
+   "group2": 0.006729887,
+   "group3": 0.168858978,
+   "group4": 0.335270725,
+   "group5": 0.487916794
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2011,
+   "group1": 0.369839933,
+   "group2": 0.160769447,
+   "group3": 0.132547037,
+   "group4": 0.095900028,
+   "group5": 0.240943555
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2012,
+   "group1": 0.322386864,
+   "group2": 0.161260179,
+   "group3": 0.147376852,
+   "group4": 0.103190495,
+   "group5": 0.265785609
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2013,
+   "group1": 0.225553934,
+   "group2": 0.180841183,
+   "group3": 0.149263633,
+   "group4": 0.119543585,
+   "group5": 0.324797665
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2014,
+   "group1": 0.201785192,
+   "group2": 0.185396547,
+   "group3": 0.158764999,
+   "group4": 0.110477027,
+   "group5": 0.343576236
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2015,
+   "group1": 0.189718163,
+   "group2": 0.197807933,
+   "group3": 0.165840292,
+   "group4": 0.117823591,
+   "group5": 0.328810021
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2016,
+   "group1": 0.168919757,
+   "group2": 0.191988094,
+   "group3": 0.170780107,
+   "group4": 0.131712762,
+   "group5": 0.336599281
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2017,
+   "group1": 0.14721969,
+   "group2": 0.170806746,
+   "group3": 0.171262534,
+   "group4": 0.135369189,
+   "group5": 0.375341841
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2018,
+   "group1": 0.117837959,
+   "group2": 0.152864816,
+   "group3": 0.167300806,
+   "group4": 0.13977171,
+   "group5": 0.422224709
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2019,
+   "group1": 0.095364531,
+   "group2": 0.156101339,
+   "group3": 0.168381458,
+   "group4": 0.140170373,
+   "group5": 0.439982299
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2020,
+   "group1": 0.055538025,
+   "group2": 0.130745766,
+   "group3": 0.139476175,
+   "group4": 0.134322078,
+   "group5": 0.539917955
+ },
+ {
+   "geography": "Scottsdale",
+   "year": 2021,
+   "group1": 0.018146647,
+   "group2": 0.095615328,
+   "group3": 0.116525424,
+   "group4": 0.103445099,
+   "group5": 0.666267502
+ },
+ {
+   "geography": "Surprise",
+   "year": 2011,
+   "group1": 0.876926902,
+   "group2": 0.088015912,
+   "group3": 0.020885132,
+   "group4": 0.007210343,
+   "group5": 0.006961711
+ },
+ {
+   "geography": "Surprise",
+   "year": 2012,
+   "group1": 0.82529077,
+   "group2": 0.134125217,
+   "group3": 0.026231131,
+   "group4": 0.00989854,
+   "group5": 0.004454343
+ },
+ {
+   "geography": "Surprise",
+   "year": 2013,
+   "group1": 0.670800187,
+   "group2": 0.275854001,
+   "group3": 0.035563875,
+   "group4": 0.009592887,
+   "group5": 0.00818905
+ },
+ {
+   "geography": "Surprise",
+   "year": 2014,
+   "group1": 0.602239403,
+   "group2": 0.323380432,
+   "group3": 0.054918688,
+   "group4": 0.01146361,
+   "group5": 0.007997867
+ },
+ {
+   "geography": "Surprise",
+   "year": 2015,
+   "group1": 0.508811119,
+   "group2": 0.389923058,
+   "group3": 0.07743857,
+   "group4": 0.014643832,
+   "group5": 0.00918342
+ },
+ {
+   "geography": "Surprise",
+   "year": 2016,
+   "group1": 0.424388012,
+   "group2": 0.447723633,
+   "group3": 0.105239076,
+   "group4": 0.013955617,
+   "group5": 0.008693663
+ },
+ {
+   "geography": "Surprise",
+   "year": 2017,
+   "group1": 0.313429794,
+   "group2": 0.528224985,
+   "group3": 0.124923579,
+   "group4": 0.024862441,
+   "group5": 0.008559201
+ },
+ {
+   "geography": "Surprise",
+   "year": 2018,
+   "group1": 0.157875525,
+   "group2": 0.619091075,
+   "group3": 0.181784997,
+   "group4": 0.029019894,
+   "group5": 0.012228509
+ },
+ {
+   "geography": "Surprise",
+   "year": 2019,
+   "group1": 0.098457888,
+   "group2": 0.598712083,
+   "group3": 0.245212676,
+   "group4": 0.045077106,
+   "group5": 0.012540247
+ },
+ {
+   "geography": "Surprise",
+   "year": 2020,
+   "group1": 0.054837693,
+   "group2": 0.457768673,
+   "group3": 0.376615191,
+   "group4": 0.08572329,
+   "group5": 0.025055153
+ },
+ {
+   "geography": "Surprise",
+   "year": 2021,
+   "group1": 0.040681851,
+   "group2": 0.130067326,
+   "group3": 0.438046125,
+   "group4": 0.272024065,
+   "group5": 0.119180633
+ },
+ {
+   "geography": "Tempe",
+   "year": 2011,
+   "group1": 0.79602461,
+   "group2": 0.130619972,
+   "group3": 0.042593469,
+   "group4": 0.010411737,
+   "group5": 0.020350213
+ },
+ {
+   "geography": "Tempe",
+   "year": 2012,
+   "group1": 0.719982847,
+   "group2": 0.180960549,
+   "group3": 0.050171527,
+   "group4": 0.020154374,
+   "group5": 0.028730703
+ },
+ {
+   "geography": "Tempe",
+   "year": 2013,
+   "group1": 0.570440795,
+   "group2": 0.286949006,
+   "group3": 0.079083838,
+   "group4": 0.033707865,
+   "group5": 0.029818496
+ },
+ {
+   "geography": "Tempe",
+   "year": 2014,
+   "group1": 0.499539171,
+   "group2": 0.334101382,
+   "group3": 0.097235023,
+   "group4": 0.034562212,
+   "group5": 0.034562212
+ },
+ {
+   "geography": "Tempe",
+   "year": 2015,
+   "group1": 0.436552275,
+   "group2": 0.383080607,
+   "group3": 0.103351955,
+   "group4": 0.039106145,
+   "group5": 0.037909018
+ },
+ {
+   "geography": "Tempe",
+   "year": 2016,
+   "group1": 0.315418829,
+   "group2": 0.459970348,
+   "group3": 0.145663454,
+   "group4": 0.040400297,
+   "group5": 0.038547072
+ },
+ {
+   "geography": "Tempe",
+   "year": 2017,
+   "group1": 0.272051369,
+   "group2": 0.437647854,
+   "group3": 0.182156134,
+   "group4": 0.06218317,
+   "group5": 0.045961473
+ },
+ {
+   "geography": "Tempe",
+   "year": 2018,
+   "group1": 0.233072474,
+   "group2": 0.412725417,
+   "group3": 0.225246683,
+   "group4": 0.075876148,
+   "group5": 0.053079279
+ },
+ {
+   "geography": "Tempe",
+   "year": 2019,
+   "group1": 0.211683849,
+   "group2": 0.356013746,
+   "group3": 0.291408935,
+   "group4": 0.084879725,
+   "group5": 0.056013746
+ },
+ {
+   "geography": "Tempe",
+   "year": 2020,
+   "group1": 0.127824859,
+   "group2": 0.302966102,
+   "group3": 0.332274011,
+   "group4": 0.139124294,
+   "group5": 0.097810734
+ },
+ {
+   "geography": "Tempe",
+   "year": 2021,
+   "group1": 0.051842973,
+   "group2": 0.191789032,
+   "group3": 0.267905304,
+   "group4": 0.266706623,
+   "group5": 0.221756068
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2011,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2012,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2013,
+   "group1": 0.973684211,
+   "group2": 0.026315789,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2014,
+   "group1": 0.970588235,
+   "group2": 0.029411765,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2015,
+   "group1": 0.90625,
+   "group2": 0.078125,
+   "group3": 0.015625,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2016,
+   "group1": 0.835616438,
+   "group2": 0.095890411,
+   "group3": 0.054794521,
+   "group4": 0.01369863,
+   "group5": 0
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2017,
+   "group1": 0.816666667,
+   "group2": 0.066666667,
+   "group3": 0.1,
+   "group4": 0.016666667,
+   "group5": 0
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2018,
+   "group1": 0.704918033,
+   "group2": 0.196721311,
+   "group3": 0.098360656,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2019,
+   "group1": 0.304761905,
+   "group2": 0.628571429,
+   "group3": 0.047619048,
+   "group4": 0,
+   "group5": 0.019047619
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2020,
+   "group1": 0.166666667,
+   "group2": 0.735294118,
+   "group3": 0.049019608,
+   "group4": 0.039215686,
+   "group5": 0.009803922
+ },
+ {
+   "geography": "Tolleson",
+   "year": 2021,
+   "group1": 0.209876543,
+   "group2": 0.345679012,
+   "group3": 0.358024691,
+   "group4": 0.074074074,
+   "group5": 0.012345679
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2011,
+   "group1": 0.698275862,
+   "group2": 0.189655172,
+   "group3": 0.077586207,
+   "group4": 0.017241379,
+   "group5": 0.017241379
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2012,
+   "group1": 0.746478873,
+   "group2": 0.154929577,
+   "group3": 0.084507042,
+   "group4": 0.014084507,
+   "group5": 0
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2013,
+   "group1": 0.572519084,
+   "group2": 0.267175573,
+   "group3": 0.106870229,
+   "group4": 0.038167939,
+   "group5": 0.015267176
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2014,
+   "group1": 0.610294118,
+   "group2": 0.272058824,
+   "group3": 0.095588235,
+   "group4": 0.007352941,
+   "group5": 0.014705882
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2015,
+   "group1": 0.567375887,
+   "group2": 0.283687943,
+   "group3": 0.085106383,
+   "group4": 0.028368794,
+   "group5": 0.035460993
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2016,
+   "group1": 0.562874251,
+   "group2": 0.317365269,
+   "group3": 0.095808383,
+   "group4": 0.017964072,
+   "group5": 0.005988024
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2017,
+   "group1": 0.494680851,
+   "group2": 0.276595745,
+   "group3": 0.14893617,
+   "group4": 0.031914894,
+   "group5": 0.04787234
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2018,
+   "group1": 0.423280423,
+   "group2": 0.291005291,
+   "group3": 0.164021164,
+   "group4": 0.074074074,
+   "group5": 0.047619048
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2019,
+   "group1": 0.31372549,
+   "group2": 0.31372549,
+   "group3": 0.196078431,
+   "group4": 0.111111111,
+   "group5": 0.065359477
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2020,
+   "group1": 0.206030151,
+   "group2": 0.341708543,
+   "group3": 0.216080402,
+   "group4": 0.090452261,
+   "group5": 0.145728643
+ },
+ {
+   "geography": "Wickenburg",
+   "year": 2021,
+   "group1": 0.139784946,
+   "group2": 0.41218638,
+   "group3": 0.161290323,
+   "group4": 0.114695341,
+   "group5": 0.172043011
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2011,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2012,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2013,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2014,
+   "group1": 1,
+   "group2": 0,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2015,
+   "group1": 0.992907801,
+   "group2": 0.007092199,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2016,
+   "group1": 0.966887417,
+   "group2": 0.033112583,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2017,
+   "group1": 0.837078652,
+   "group2": 0.162921348,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2018,
+   "group1": 0.773480663,
+   "group2": 0.226519337,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2019,
+   "group1": 0.67027027,
+   "group2": 0.32972973,
+   "group3": 0,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2020,
+   "group1": 0.528846154,
+   "group2": 0.461538462,
+   "group3": 0.009615385,
+   "group4": 0,
+   "group5": 0
+ },
+ {
+   "geography": "Youngtown",
+   "year": 2021,
+   "group1": 0.186602871,
+   "group2": 0.488038278,
+   "group3": 0.28708134,
+   "group4": 0.038277512,
+   "group5": 0
+ }
+]

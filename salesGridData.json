@@ -1,0 +1,210 @@
+[
+ {
+   "Geography": "Maricopa County",
+   "MedPriceNew": "427,500",
+   "MedPriceOld": "342,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.25
+ },
+ {
+   "Geography": "Apache Junction",
+   "MedPriceNew": "240,000",
+   "MedPriceOld": "235,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.021276596
+ },
+ {
+   "Geography": "Avondale",
+   "MedPriceNew": "392,395",
+   "MedPriceOld": "299,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.31235786
+ },
+ {
+   "Geography": "Buckeye",
+   "MedPriceNew": "400,000",
+   "MedPriceOld": "297,500",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.344537815
+ },
+ {
+   "Geography": "Carefree",
+   "MedPriceNew": "1,375,000",
+   "MedPriceOld": "872,500",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.575931232
+ },
+ {
+   "Geography": "Cave Creek",
+   "MedPriceNew": "1,178,475",
+   "MedPriceOld": "613,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.922471452
+ },
+ {
+   "Geography": "Chandler",
+   "MedPriceNew": "481,000",
+   "MedPriceOld": "387,600",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.240970072
+ },
+ {
+   "Geography": "El Mirage",
+   "MedPriceNew": "355,000",
+   "MedPriceOld": "252,500",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.405940594
+ },
+ {
+   "Geography": "Florence",
+   "MedPriceNew": "338,450",
+   "MedPriceOld": "269,900",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.253982957
+ },
+ {
+   "Geography": "Fountain Hills",
+   "MedPriceNew": "535,000",
+   "MedPriceOld": "435,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.229885057
+ },
+ {
+   "Geography": "Gilbert",
+   "MedPriceNew": "530,000",
+   "MedPriceOld": "400,500",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.323345818
+ },
+ {
+   "Geography": "Glendale",
+   "MedPriceNew": "380,000",
+   "MedPriceOld": "288,450",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.317386029
+ },
+ {
+   "Geography": "Goodyear",
+   "MedPriceNew": "441,687",
+   "MedPriceOld": "364,736",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.210975884
+ },
+ {
+   "Geography": "Litchfield Park",
+   "MedPriceNew": "535,000",
+   "MedPriceOld": "437,472",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.222935411
+ },
+ {
+   "Geography": "Maricopa",
+   "MedPriceNew": "360,000",
+   "MedPriceOld": "270,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.333333333
+ },
+ {
+   "Geography": "Mesa",
+   "MedPriceNew": "412,490",
+   "MedPriceOld": "325,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.2692
+ },
+ {
+   "Geography": "Paradise Valley",
+   "MedPriceNew": "3,137,500",
+   "MedPriceOld": "2,357,500",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.330858961
+ },
+ {
+   "Geography": "Peoria",
+   "MedPriceNew": "460,000",
+   "MedPriceOld": "361,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.274238227
+ },
+ {
+   "Geography": "Phoenix",
+   "MedPriceNew": "398,500",
+   "MedPriceOld": "310,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.285483871
+ },
+ {
+   "Geography": "Queen Creek",
+   "MedPriceNew": "558,532",
+   "MedPriceOld": "435,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.283981609
+ },
+ {
+   "Geography": "Scottsdale",
+   "MedPriceNew": "691,475",
+   "MedPriceOld": "595,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.162142857
+ },
+ {
+   "Geography": "Surprise",
+   "MedPriceNew": "411,978",
+   "MedPriceOld": "318,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.295528302
+ },
+ {
+   "Geography": "Tempe",
+   "MedPriceNew": "433,358",
+   "MedPriceOld": "332,500",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.303332331
+ },
+ {
+   "Geography": "Tolleson",
+   "MedPriceNew": "302,500",
+   "MedPriceOld": "270,000",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.12037037
+ },
+ {
+   "Geography": "Wickenburg",
+   "MedPriceNew": "467,596",
+   "MedPriceOld": "397,706",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.175734306
+ },
+ {
+   "Geography": "Youngtown",
+   "MedPriceNew": "267,500",
+   "MedPriceOld": "199,600",
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.340180361
+ }
+]

@@ -1,5 +1,27 @@
 [
  {
+   "Geography": "Maricopa County",
+   "overall_2020q2": 1137,
+   "overall_2021q2": 1368,
+   "overall_change": 0.203166227,
+   "studios_2020q2": 825,
+   "studios_2021q2": 929,
+   "studios_change": 0.126060606,
+   "bed1_2020q2": 1035,
+   "bed1_2021q2": 1246,
+   "bed1_change": 0.203864734,
+   "bed2_2020q2": 1240,
+   "bed2_2021q2": 1478,
+   "bed2_change": 0.191935484,
+   "bed3_2020q2": 1546,
+   "bed3_2021q2": 1828,
+   "bed3_change": 0.18240621,
+   "bed4_2020q2": 1600,
+   "bed4_2021q2": 1875,
+   "bed4_change": 0.171875,
+   "filler": 1
+ },
+ {
    "Geography": "Apache Junction",
    "overall_2020q2": 742,
    "overall_2021q2": 742,
@@ -437,28 +459,6 @@
    "bed4_2020q2": null,
    "bed4_2021q2": null,
    "bed4_change": null,
-   "filler": 1
- },
- {
-   "Geography": "Maricopa County",
-   "overall_2020q2": 1137,
-   "overall_2021q2": 1368,
-   "overall_change": 0.203166227,
-   "studios_2020q2": 825,
-   "studios_2021q2": 929,
-   "studios_change": 0.126060606,
-   "bed1_2020q2": 1035,
-   "bed1_2021q2": 1246,
-   "bed1_change": 0.203864734,
-   "bed2_2020q2": 1240,
-   "bed2_2021q2": 1478,
-   "bed2_change": 0.191935484,
-   "bed3_2020q2": 1546,
-   "bed3_2021q2": 1828,
-   "bed3_change": 0.18240621,
-   "bed4_2020q2": 1600,
-   "bed4_2021q2": 1875,
-   "bed4_change": 0.171875,
    "filler": 1
  }
 ]

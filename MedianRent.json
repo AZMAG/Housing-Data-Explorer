@@ -1,0 +1,485 @@
+[
+ {
+   "Geography": "Maricopa County",
+   "overall_2021q4": 1550,
+   "studio_2021q4": [
+      1063,
+      872
+   ],
+   "bed1_2021q4": [
+      1417,
+      1090
+   ],
+   "bed2_2021q4": 1683,
+   "bed3plus_2021q4": 2041,
+   "overall_2020q4": 1205,
+   "bed2_2020q4": 1307,
+   "bed3plus_2020q4": 1640,
+   "overall_change": 0.286307,
+   "studio_change": "0.219037",
+   "bed1_change": 0.3,
+   "bed2_change": 0.287682,
+   "bed3plus_change": "0.244512",
+   "filler": 1
+},
+ {
+   "Geography": "Apache Junction",
+   "overall_2021q4": 742,
+   "studio_2021q4": [
+      null,
+      null
+   ],
+   "bed1_2021q4": [
+      508,
+      496
+   ],
+   "bed2_2021q4": 1204,
+   "bed3plus_2021q4": 742,
+   "overall_2020q4": 742,
+   "bed2_2020q4": 1154,
+   "bed3plus_2020q4": 742,
+   "overall_change": 0,
+   "studio_change": "n/a",
+   "bed1_change": 0.024194,
+   "bed2_change": 0.043328,
+   "bed3plus_change": "0",
+   "filler": 1
+},
+ {
+   "Geography": "Avondale",
+   "overall_2021q4": 1672,
+   "studio_2021q4": [
+      875,
+      781
+   ],
+   "bed1_2021q4": [
+      1483,
+      1164
+   ],
+   "bed2_2021q4": 1763,
+   "bed3plus_2021q4": 1798,
+   "overall_2020q4": 1249,
+   "bed2_2020q4": 1420,
+   "bed3plus_2020q4": 1413,
+   "overall_change": 0.338671,
+   "studio_change": "0.120359",
+   "bed1_change": 0.274055,
+   "bed2_change": 0.241549,
+   "bed3plus_change": "0.27247",
+   "filler": 1
+},
+ {
+   "Geography": "Buckeye",
+   "overall_2021q4": 1149,
+   "studio_2021q4": [
+      null,
+      null
+   ],
+   "bed1_2021q4": [
+      1149,
+      845
+   ],
+   "bed2_2021q4": 1025,
+   "bed3plus_2021q4": 1675,
+   "overall_2020q4": 905,
+   "bed2_2020q4": 815,
+   "bed3plus_2020q4": 1600,
+   "overall_change": 0.269613,
+   "studio_change": "n/a",
+   "bed1_change": 0.359763,
+   "bed2_change": 0.257669,
+   "bed3plus_change": "0.046875",
+   "filler": 1
+},
+ {
+   "Geography": "Carefree",
+   "overall_2021q4": 1032,
+   "studio_2021q4": [
+      770,
+      750
+   ],
+   "bed1_2021q4": [
+      1032,
+      1020
+   ],
+   "bed2_2021q4": 1180,
+   "bed3plus_2021q4": null,
+   "overall_2020q4": 1020,
+   "bed2_2020q4": 1160,
+   "bed3plus_2020q4": null,
+   "overall_change": 0.011765,
+   "studio_change": "0.026667",
+   "bed1_change": 0.011765,
+   "bed2_change": 0.017241,
+   "bed3plus_change": "n/a",
+   "filler": 1
+},
+ {
+   "Geography": "Chandler",
+   "overall_2021q4": 1751,
+   "studio_2021q4": [
+      1335,
+      1000
+   ],
+   "bed1_2021q4": [
+      1614,
+      1290
+   ],
+   "bed2_2021q4": 1881,
+   "bed3plus_2021q4": 2230,
+   "overall_2020q4": 1390,
+   "bed2_2020q4": 1491,
+   "bed3plus_2020q4": 1740,
+   "overall_change": 0.259712,
+   "studio_change": "0.335",
+   "bed1_change": 0.251163,
+   "bed2_change": 0.261569,
+   "bed3plus_change": "0.281609",
+   "filler": 1
+},
+ {
+   "Geography": "El Mirage",
+   "overall_2021q4": 813,
+   "studio_2021q4": [
+      null,
+      null
+   ],
+   "bed1_2021q4": [
+      813,
+      795
+   ],
+   "bed2_2021q4": 968,
+   "bed3plus_2021q4": 1091,
+   "overall_2020q4": 795,
+   "bed2_2020q4": 945,
+   "bed3plus_2020q4": 1060,
+   "overall_change": 0.022642,
+   "studio_change": "n/a",
+   "bed1_change": 0.022642,
+   "bed2_change": 0.024339,
+   "bed3plus_change": "0.029245",
+   "filler": 1
+},
+ {
+   "Geography": "Fountain Hills",
+   "overall_2021q4": 1874,
+   "studio_2021q4": [
+      null,
+      null
+   ],
+   "bed1_2021q4": [
+      1874,
+      1258
+   ],
+   "bed2_2021q4": 2143,
+   "bed3plus_2021q4": 3049,
+   "overall_2020q4": 1657,
+   "bed2_2020q4": 1657,
+   "bed3plus_2020q4": 2088,
+   "overall_change": 0.13096,
+   "studio_change": "n/a",
+   "bed1_change": 0.489666,
+   "bed2_change": 0.293301,
+   "bed3plus_change": "0.460249",
+   "filler": 1
+},
+ {
+   "Geography": "Gilbert",
+   "overall_2021q4": 1722,
+   "studio_2021q4": [
+      1457,
+      1191
+   ],
+   "bed1_2021q4": [
+      1603,
+      1269
+   ],
+   "bed2_2021q4": 1832,
+   "bed3plus_2021q4": 2354,
+   "overall_2020q4": 1402,
+   "bed2_2020q4": 1453,
+   "bed3plus_2020q4": 1857,
+   "overall_change": 0.228245,
+   "studio_change": "0.223342",
+   "bed1_change": 0.263199,
+   "bed2_change": 0.26084,
+   "bed3plus_change": "0.267636",
+   "filler": 1
+},
+ {
+   "Geography": "Glendale",
+   "overall_2021q4": 1310,
+   "studio_2021q4": [
+      925,
+      742
+   ],
+   "bed1_2021q4": [
+      1200,
+      904
+   ],
+   "bed2_2021q4": 1489,
+   "bed3plus_2021q4": 1376,
+   "overall_2020q4": 1009,
+   "bed2_2020q4": 1125,
+   "bed3plus_2020q4": 1245,
+   "overall_change": 0.298315,
+   "studio_change": "0.246631",
+   "bed1_change": 0.327434,
+   "bed2_change": 0.323556,
+   "bed3plus_change": "0.105221",
+   "filler": 1
+},
+ {
+   "Geography": "Goodyear",
+   "overall_2021q4": 1780,
+   "studio_2021q4": [
+      964,
+      935
+   ],
+   "bed1_2021q4": [
+      1605,
+      1270
+   ],
+   "bed2_2021q4": 1902,
+   "bed3plus_2021q4": 2051,
+   "overall_2020q4": 1398,
+   "bed2_2020q4": 1479,
+   "bed3plus_2020q4": 1699,
+   "overall_change": 0.273247,
+   "studio_change": "0.031016",
+   "bed1_change": 0.26378,
+   "bed2_change": 0.286004,
+   "bed3plus_change": "0.207181",
+   "filler": 1
+},
+ {
+   "Geography": "Guadalupe",
+   "overall_2021q4": 768,
+   "studio_2021q4": [
+      903,
+      null
+   ],
+   "bed1_2021q4": [
+      1102,
+      613
+   ],
+   "bed2_2021q4": 768,
+   "bed3plus_2021q4": 822,
+   "overall_2020q4": 742,
+   "bed2_2020q4": 742,
+   "bed3plus_2020q4": 1173,
+   "overall_change": 0.03504,
+   "studio_change": "n/a",
+   "bed1_change": 0.797716,
+   "bed2_change": 0.03504,
+   "bed3plus_change": "-0.29923",
+   "filler": 1
+},
+ {
+   "Geography": "Mesa",
+   "overall_2021q4": 1426,
+   "studio_2021q4": [
+      1045,
+      839
+   ],
+   "bed1_2021q4": [
+      1293,
+      990
+   ],
+   "bed2_2021q4": 1563,
+   "bed3plus_2021q4": 1838,
+   "overall_2020q4": 1108,
+   "bed2_2020q4": 1193,
+   "bed3plus_2020q4": 1528,
+   "overall_change": 0.287004,
+   "studio_change": "0.24553",
+   "bed1_change": 0.306061,
+   "bed2_change": 0.310142,
+   "bed3plus_change": "0.20288",
+   "filler": 1
+},
+ {
+   "Geography": "Peoria",
+   "overall_2021q4": 1625,
+   "studio_2021q4": [
+      1485,
+      1197
+   ],
+   "bed1_2021q4": [
+      1550,
+      1258
+   ],
+   "bed2_2021q4": 1710,
+   "bed3plus_2021q4": 2023,
+   "overall_2020q4": 1300,
+   "bed2_2020q4": 1409,
+   "bed3plus_2020q4": 1619,
+   "overall_change": 0.25,
+   "studio_change": "0.240602",
+   "bed1_change": 0.232114,
+   "bed2_change": 0.213627,
+   "bed3plus_change": "0.249537",
+   "filler": 1
+},
+ {
+   "Geography": "Phoenix",
+   "overall_2021q4": 1418,
+   "studio_2021q4": [
+      995,
+      838
+   ],
+   "bed1_2021q4": [
+      1303,
+      995
+   ],
+   "bed2_2021q4": 1569,
+   "bed3plus_2021q4": 1980,
+   "overall_2020q4": 1107,
+   "bed2_2020q4": 1213,
+   "bed3plus_2020q4": 1590,
+   "overall_change": 0.280939,
+   "studio_change": "0.187351",
+   "bed1_change": 0.309548,
+   "bed2_change": 0.293487,
+   "bed3plus_change": "0.245283",
+   "filler": 1
+},
+ {
+   "Geography": "Queen Creek",
+   "overall_2021q4": 1973,
+   "studio_2021q4": [
+      null,
+      null
+   ],
+   "bed1_2021q4": [
+      1678,
+      1297
+   ],
+   "bed2_2021q4": 2140,
+   "bed3plus_2021q4": 2401,
+   "overall_2020q4": 1550,
+   "bed2_2020q4": 1726,
+   "bed3plus_2020q4": 1832,
+   "overall_change": 0.272903,
+   "studio_change": "n/a",
+   "bed1_change": 0.293755,
+   "bed2_change": 0.239861,
+   "bed3plus_change": "0.31059",
+   "filler": 1
+},
+ {
+   "Geography": "Scottsdale",
+   "overall_2021q4": 1979,
+   "studio_2021q4": [
+      1768,
+      1476
+   ],
+   "bed1_2021q4": [
+      1769,
+      1338
+   ],
+   "bed2_2021q4": 2105,
+   "bed3plus_2021q4": 2499,
+   "overall_2020q4": 1530,
+   "bed2_2020q4": 1580,
+   "bed3plus_2020q4": 1929,
+   "overall_change": 0.293464,
+   "studio_change": "0.197832",
+   "bed1_change": 0.322123,
+   "bed2_change": 0.332278,
+   "bed3plus_change": "0.29549",
+   "filler": 1
+},
+ {
+   "Geography": "Surprise",
+   "overall_2021q4": 1758,
+   "studio_2021q4": [
+      null,
+      null
+   ],
+   "bed1_2021q4": [
+      1551,
+      1196
+   ],
+   "bed2_2021q4": 1853,
+   "bed3plus_2021q4": 1713,
+   "overall_2020q4": 1415,
+   "bed2_2020q4": 1425,
+   "bed3plus_2020q4": 1400,
+   "overall_change": 0.242403,
+   "studio_change": "n/a",
+   "bed1_change": 0.296823,
+   "bed2_change": 0.300351,
+   "bed3plus_change": "0.223571",
+   "filler": 1
+},
+ {
+   "Geography": "Tempe",
+   "overall_2021q4": 1620,
+   "studio_2021q4": [
+      1299,
+      1054
+   ],
+   "bed1_2021q4": [
+      1500,
+      1132
+   ],
+   "bed2_2021q4": 1738,
+   "bed3plus_2021q4": 2238,
+   "overall_2020q4": 1278,
+   "bed2_2020q4": 1330,
+   "bed3plus_2020q4": 1800,
+   "overall_change": 0.267606,
+   "studio_change": "0.232448",
+   "bed1_change": 0.325088,
+   "bed2_change": 0.306767,
+   "bed3plus_change": "0.243333",
+   "filler": 1
+},
+ {
+   "Geography": "Tolleson",
+   "overall_2021q4": 1053,
+   "studio_2021q4": [
+      null,
+      null
+   ],
+   "bed1_2021q4": [
+      1205,
+      782
+   ],
+   "bed2_2021q4": 1053,
+   "bed3plus_2021q4": 1297,
+   "overall_2020q4": 970,
+   "bed2_2020q4": 970,
+   "bed3plus_2020q4": 1119,
+   "overall_change": 0.085567,
+   "studio_change": "n/a",
+   "bed1_change": 0.540921,
+   "bed2_change": 0.085567,
+   "bed3plus_change": "0.159071",
+   "filler": 1
+},
+ {
+   "Geography": "Youngtown",
+   "overall_2021q4": 603,
+   "studio_2021q4": [
+      800,
+      650
+   ],
+   "bed1_2021q4": [
+      599,
+      599
+   ],
+   "bed2_2021q4": 673,
+   "bed3plus_2021q4": 603,
+   "overall_2020q4": 599,
+   "bed2_2020q4": 668,
+   "bed3plus_2020q4": 594,
+   "overall_change": 0.006678,
+   "studio_change": "0.230769",
+   "bed1_change": 0,
+   "bed2_change": 0.007485,
+   "bed3plus_change": "0.015152",
+   "filler": 1
+}
+]

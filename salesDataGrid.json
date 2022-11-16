@@ -1,210 +1,210 @@
 [
  {
    "Geography": "Maricopa County",
-   "MedPriceNew": 460000,
-   "MedPriceOld": 412000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.116504854
+   "MedPriceNew": 427500,
+   "MedPriceOld": 342000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.25
  },
  {
    "Geography": "Apache Junction",
-   "MedPriceNew": 306000,
-   "MedPriceOld": 305000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.003278689
+   "MedPriceNew": 240000,
+   "MedPriceOld": 235000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.021276596
  },
  {
    "Geography": "Avondale",
-   "MedPriceNew": 420090,
-   "MedPriceOld": 385000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.091142857
+   "MedPriceNew": 392395,
+   "MedPriceOld": 299000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.31235786
  },
  {
    "Geography": "Buckeye",
-   "MedPriceNew": 424990,
-   "MedPriceOld": 380000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.118394737
+   "MedPriceNew": 400000,
+   "MedPriceOld": 297500,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.344537815
  },
  {
    "Geography": "Carefree",
-   "MedPriceNew": 1600000,
-   "MedPriceOld": 1000000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.6
+   "MedPriceNew": 1375000,
+   "MedPriceOld": 872500,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.575931232
  },
  {
    "Geography": "Cave Creek",
-   "MedPriceNew": 900000,
-   "MedPriceOld": 730099,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.232709537
+   "MedPriceNew": 1178475,
+   "MedPriceOld": 613000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.922471452
  },
  {
    "Geography": "Chandler",
-   "MedPriceNew": 530000,
-   "MedPriceOld": 465000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.139784946
+   "MedPriceNew": 481000,
+   "MedPriceOld": 387600,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.240970072
  },
  {
    "Geography": "El Mirage",
-   "MedPriceNew": 350000,
-   "MedPriceOld": 340000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.029411765
+   "MedPriceNew": 355000,
+   "MedPriceOld": 252500,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.405940594
  },
  {
    "Geography": "Florence",
-   "MedPriceNew": 377920,
-   "MedPriceOld": 310000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.219096774
+   "MedPriceNew": 338450,
+   "MedPriceOld": 269900,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.253982957
  },
  {
    "Geography": "Fountain Hills",
-   "MedPriceNew": 587500,
-   "MedPriceOld": 575000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.02173913
+   "MedPriceNew": 535000,
+   "MedPriceOld": 435000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.229885057
  },
  {
    "Geography": "Gilbert",
-   "MedPriceNew": 563000,
-   "MedPriceOld": 499450,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.127239964
+   "MedPriceNew": 530000,
+   "MedPriceOld": 400500,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.323345818
  },
  {
    "Geography": "Glendale",
-   "MedPriceNew": 400000,
-   "MedPriceOld": 375000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.066666667
+   "MedPriceNew": 380000,
+   "MedPriceOld": 288450,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.317386029
  },
  {
    "Geography": "Goodyear",
-   "MedPriceNew": 499736,
-   "MedPriceOld": 419670,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.190783234
+   "MedPriceNew": 441686.5,
+   "MedPriceOld": 364736,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.210975884
  },
  {
    "Geography": "Litchfield Park",
-   "MedPriceNew": 534450,
-   "MedPriceOld": 413150,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.293597967
+   "MedPriceNew": 535000,
+   "MedPriceOld": 437472,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.222935411
  },
  {
    "Geography": "Maricopa",
-   "MedPriceNew": 381617.5,
-   "MedPriceOld": 350000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.090335714
+   "MedPriceNew": 360000,
+   "MedPriceOld": 270000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.333333333
  },
  {
    "Geography": "Mesa",
-   "MedPriceNew": 445000,
-   "MedPriceOld": 399950,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.11263908
+   "MedPriceNew": 412490,
+   "MedPriceOld": 325000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.2692
  },
  {
    "Geography": "Paradise Valley",
-   "MedPriceNew": 3550000,
-   "MedPriceOld": 2272500,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.562156216
+   "MedPriceNew": 3137500,
+   "MedPriceOld": 2357500,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.330858961
  },
  {
    "Geography": "Peoria",
-   "MedPriceNew": 525000,
-   "MedPriceOld": 453106,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.158669274
+   "MedPriceNew": 460000,
+   "MedPriceOld": 361000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.274238227
  },
  {
    "Geography": "Phoenix",
-   "MedPriceNew": 425000,
-   "MedPriceOld": 380000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.118421053
+   "MedPriceNew": 398500,
+   "MedPriceOld": 310000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.285483871
  },
  {
    "Geography": "Queen Creek",
-   "MedPriceNew": 602214,
-   "MedPriceOld": 507549,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.186514011
+   "MedPriceNew": 558532,
+   "MedPriceOld": 435000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.283981609
  },
  {
    "Geography": "Scottsdale",
-   "MedPriceNew": 800000,
-   "MedPriceOld": 650000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.230769231
+   "MedPriceNew": 691475,
+   "MedPriceOld": 595000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.162142857
  },
  {
    "Geography": "Surprise",
-   "MedPriceNew": 447647,
-   "MedPriceOld": 400000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.1191175
+   "MedPriceNew": 411978,
+   "MedPriceOld": 318000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.295528302
  },
  {
    "Geography": "Tempe",
-   "MedPriceNew": 425850,
-   "MedPriceOld": 425000,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.002
+   "MedPriceNew": 433358,
+   "MedPriceOld": 332500,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.303332331
  },
  {
    "Geography": "Tolleson",
-   "MedPriceNew": 380000,
-   "MedPriceOld": 340987,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.114411986
+   "MedPriceNew": 302500,
+   "MedPriceOld": 270000,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.12037037
  },
  {
    "Geography": "Wickenburg",
-   "MedPriceNew": 547500,
-   "MedPriceOld": 459383,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.191815979
+   "MedPriceNew": 467596,
+   "MedPriceOld": 397705.5,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.175734306
  },
  {
    "Geography": "Youngtown",
-   "MedPriceNew": 300000,
-   "MedPriceOld": 282250,
-   "NewDate": "9/1/2022",
-   "OldDate": "9/1/2021",
-   "PctChange": 0.062887511
+   "MedPriceNew": 267500,
+   "MedPriceOld": 199600,
+   "NewDate": "12/1/2021",
+   "OldDate": "12/1/2020",
+   "PctChange": 0.340180361
  }
 ]

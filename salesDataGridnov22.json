@@ -1,0 +1,210 @@
+[
+ {
+   "Geography": "Maricopa County",
+   "MedPriceNew": 460000,
+   "MedPriceOld": 412000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.116504854
+ },
+ {
+   "Geography": "Apache Junction",
+   "MedPriceNew": 306000,
+   "MedPriceOld": 305000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.003278689
+ },
+ {
+   "Geography": "Avondale",
+   "MedPriceNew": 420090,
+   "MedPriceOld": 385000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.091142857
+ },
+ {
+   "Geography": "Buckeye",
+   "MedPriceNew": 424990,
+   "MedPriceOld": 380000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.118394737
+ },
+ {
+   "Geography": "Carefree",
+   "MedPriceNew": 1600000,
+   "MedPriceOld": 1000000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.6
+ },
+ {
+   "Geography": "Cave Creek",
+   "MedPriceNew": 900000,
+   "MedPriceOld": 730099,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.232709537
+ },
+ {
+   "Geography": "Chandler",
+   "MedPriceNew": 530000,
+   "MedPriceOld": 465000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.139784946
+ },
+ {
+   "Geography": "El Mirage",
+   "MedPriceNew": 350000,
+   "MedPriceOld": 340000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.029411765
+ },
+ {
+   "Geography": "Florence",
+   "MedPriceNew": 377920,
+   "MedPriceOld": 310000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.219096774
+ },
+ {
+   "Geography": "Fountain Hills",
+   "MedPriceNew": 587500,
+   "MedPriceOld": 575000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.02173913
+ },
+ {
+   "Geography": "Gilbert",
+   "MedPriceNew": 563000,
+   "MedPriceOld": 499450,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.127239964
+ },
+ {
+   "Geography": "Glendale",
+   "MedPriceNew": 400000,
+   "MedPriceOld": 375000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.066666667
+ },
+ {
+   "Geography": "Goodyear",
+   "MedPriceNew": 499736,
+   "MedPriceOld": 419670,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.190783234
+ },
+ {
+   "Geography": "Litchfield Park",
+   "MedPriceNew": 534450,
+   "MedPriceOld": 413150,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.293597967
+ },
+ {
+   "Geography": "Maricopa",
+   "MedPriceNew": 381617.5,
+   "MedPriceOld": 350000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.090335714
+ },
+ {
+   "Geography": "Mesa",
+   "MedPriceNew": 445000,
+   "MedPriceOld": 399950,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.11263908
+ },
+ {
+   "Geography": "Paradise Valley",
+   "MedPriceNew": 3550000,
+   "MedPriceOld": 2272500,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.562156216
+ },
+ {
+   "Geography": "Peoria",
+   "MedPriceNew": 525000,
+   "MedPriceOld": 453106,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.158669274
+ },
+ {
+   "Geography": "Phoenix",
+   "MedPriceNew": 425000,
+   "MedPriceOld": 380000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.118421053
+ },
+ {
+   "Geography": "Queen Creek",
+   "MedPriceNew": 602214,
+   "MedPriceOld": 507549,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.186514011
+ },
+ {
+   "Geography": "Scottsdale",
+   "MedPriceNew": 800000,
+   "MedPriceOld": 650000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.230769231
+ },
+ {
+   "Geography": "Surprise",
+   "MedPriceNew": 447647,
+   "MedPriceOld": 400000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.1191175
+ },
+ {
+   "Geography": "Tempe",
+   "MedPriceNew": 425850,
+   "MedPriceOld": 425000,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.002
+ },
+ {
+   "Geography": "Tolleson",
+   "MedPriceNew": 380000,
+   "MedPriceOld": 340987,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.114411986
+ },
+ {
+   "Geography": "Wickenburg",
+   "MedPriceNew": 547500,
+   "MedPriceOld": 459383,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.191815979
+ },
+ {
+   "Geography": "Youngtown",
+   "MedPriceNew": 300000,
+   "MedPriceOld": 282250,
+   "NewDate": "9/1/2022",
+   "OldDate": "9/1/2021",
+   "PctChange": 0.062887511
+ }
+]

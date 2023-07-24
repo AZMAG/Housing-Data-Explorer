@@ -1,4 +1,4 @@
-﻿place,hh_total,num_gt30pct,pct_gt30pct,num_gt50pct,pct_gt50pct,owner_total,owner_gt30pct,pctowner_gt30pct,owner_gt50pct,pctowner_gt50pct,renter_total,renter_gt30pct,pctrenter_gt30pct,renter_gt50pct,pctrenter_gt50pct,filler
+﻿Geography,hh_total,num_gt30pct,pct_gt30pct,num_gt50pct,pct_gt50pct,owner_total,owner_gt30pct,pctowner_gt30pct,owner_gt50pct,pctowner_gt50pct,renter_total,renter_gt30pct,pctrenter_gt30pct,renter_gt50pct,pctrenter_gt50pct,filler
 Phoenix MSA,1777705,526451,0.296140811,232171,0.130601534,1155238,243227,0.210542763,98063,0.084885539,622467,283224,0.455002434,134108,0.215445959,1
 Maricopa County,1632151,490881,0.300757099,218338,0.133773162,1041572,219839,0.211064622,89377,0.085809718,590579,271042,0.458942834,128961,0.218363674,1
 Pinal County,145554,35570,0.244376657,13833,0.095036894,113666,23388,0.205760738,8686,0.07641687,31888,12182,0.382024586,5147,0.16140868,1

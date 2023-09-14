@@ -109,7 +109,7 @@
   },
   {
     "geography": "Maricopa County",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.035707655,
     "group2": 0.103347979,
     "group3": 0.240155125,
@@ -217,7 +217,7 @@
   },
   {
     "geography": "Apache Junction",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.316770186,
     "group2": 0.233954451,
     "group3": 0.3126294,
@@ -334,7 +334,7 @@
   },
   {
     "geography": "Avondale",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.014324082,
     "group2": 0.032229185,
     "group3": 0.360787825,
@@ -451,7 +451,7 @@
   },
   {
     "geography": "Buckeye",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.005871725,
     "group2": 0.032971996,
     "group3": 0.474254743,
@@ -568,7 +568,7 @@
   },
   {
     "geography": "Carefree",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0,
     "group2": 0.021052632,
     "group3": 0.042105263,
@@ -685,7 +685,7 @@
   },
   {
     "geography": "Cave Creek",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0,
     "group2": 0.014705882,
     "group3": 0,
@@ -802,7 +802,7 @@
   },
   {
     "geography": "Chandler",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.003778932,
     "group2": 0.062824752,
     "group3": 0.171941427,
@@ -919,7 +919,7 @@
   },
   {
     "geography": "El Mirage",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.026666667,
     "group2": 0.137777778,
     "group3": 0.751111111,
@@ -1027,7 +1027,7 @@
   },
   {
     "geography": "Florence",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.201298701,
     "group2": 0.165584416,
     "group3": 0.318181818,
@@ -1144,7 +1144,7 @@
   },
   {
     "geography": "Fountain Hills",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.002070393,
     "group2": 0.095238095,
     "group3": 0.173913043,
@@ -1261,7 +1261,7 @@
   },
   {
     "geography": "Gila Bend",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.333333333,
     "group2": 0.5,
     "group3": 0,
@@ -1378,7 +1378,7 @@
   },
   {
     "geography": "Gilbert",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.001092498,
     "group2": 0.01201748,
     "group3": 0.069191551,
@@ -1495,7 +1495,7 @@
   },
   {
     "geography": "Glendale",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.059643255,
     "group2": 0.155518395,
     "group3": 0.272017837,
@@ -1612,7 +1612,7 @@
   },
   {
     "geography": "Goodyear",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.003362475,
     "group2": 0.020174849,
     "group3": 0.178883658,
@@ -1729,7 +1729,7 @@
   },
   {
     "geography": "Guadalupe",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.2,
     "group2": 0.3,
     "group3": 0.4,
@@ -1846,7 +1846,7 @@
   },
   {
     "geography": "Litchfield Park",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0,
     "group2": 0.2,
     "group3": 0.169230769,
@@ -1954,7 +1954,7 @@
   },
   {
     "geography": "Maricopa",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.007523511,
     "group2": 0.115360502,
     "group3": 0.620062696,
@@ -2071,7 +2071,7 @@
   },
   {
     "geography": "Mesa",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.068388138,
     "group2": 0.138390155,
     "group3": 0.228969135,
@@ -2188,7 +2188,7 @@
   },
   {
     "geography": "Paradise Valley",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0,
     "group2": 0,
     "group3": 0,
@@ -2305,7 +2305,7 @@
   },
   {
     "geography": "Peoria",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.015278462,
     "group2": 0.086742238,
     "group3": 0.198127156,
@@ -2422,7 +2422,7 @@
   },
   {
     "geography": "Phoenix",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.053562219,
     "group2": 0.136300007,
     "group3": 0.281809475,
@@ -2539,7 +2539,7 @@
   },
   {
     "geography": "Queen Creek",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.000682594,
     "group2": 0.000682594,
     "group3": 0.03890785,
@@ -2656,7 +2656,7 @@
   },
   {
     "geography": "Scottsdale",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.004718218,
     "group2": 0.055570118,
     "group3": 0.098296199,
@@ -2773,7 +2773,7 @@
   },
   {
     "geography": "Surprise",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.019188424,
     "group2": 0.040264234,
     "group3": 0.349166405,
@@ -2890,7 +2890,7 @@
   },
   {
     "geography": "Tempe",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.012684989,
     "group2": 0.155391121,
     "group3": 0.239957717,
@@ -3007,7 +3007,7 @@
   },
   {
     "geography": "Tolleson",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.043478261,
     "group2": 0.260869565,
     "group3": 0.47826087,
@@ -3124,7 +3124,7 @@
   },
   {
     "geography": "Wickenburg",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.04296875,
     "group2": 0.03515625,
     "group3": 0.1328125,
@@ -3241,7 +3241,7 @@
   },
   {
     "geography": "Youngtown",
-    "year": 2023,
+    "year": 2023*,
     "group1": 0.086956522,
     "group2": 0.239130435,
     "group3": 0.5,

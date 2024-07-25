@@ -1,6 +1,6 @@
 [
   {
-    "Geography": "1/1/2015",
+    "Month": "1/1/2015",
     "MaricopaCounty_num": 5363,
     "ApacheJunction_num": 65,
     "Avondale_num": 74,
@@ -118,7 +118,7 @@
     "Tempe_TH": 140500
   },
   {
-    "Geography": "2/1/2015",
+    "Month": "2/1/2015",
     "MaricopaCounty_num": 6184,
     "ApacheJunction_num": 66,
     "Avondale_num": 88,
@@ -236,7 +236,7 @@
     "Tempe_TH": 146000
   },
   {
-    "Geography": "3/1/2015",
+    "Month": "3/1/2015",
     "MaricopaCounty_num": 8683,
     "ApacheJunction_num": 123,
     "Avondale_num": 121,
@@ -354,7 +354,7 @@
     "Tempe_TH": 166200
   },
   {
-    "Geography": "4/1/2015",
+    "Month": "4/1/2015",
     "MaricopaCounty_num": 8957,
     "ApacheJunction_num": 113,
     "Avondale_num": 159,
@@ -472,7 +472,7 @@
     "Tempe_TH": 180000
   },
   {
-    "Geography": "5/1/2015",
+    "Month": "5/1/2015",
     "MaricopaCounty_num": 9065,
     "ApacheJunction_num": 76,
     "Avondale_num": 146,
@@ -590,7 +590,7 @@
     "Tempe_TH": 155000
   },
   {
-    "Geography": "6/1/2015",
+    "Month": "6/1/2015",
     "MaricopaCounty_num": 9768,
     "ApacheJunction_num": 79,
     "Avondale_num": 164,
@@ -708,7 +708,7 @@
     "Tempe_TH": 150000
   },
   {
-    "Geography": "7/1/2015",
+    "Month": "7/1/2015",
     "MaricopaCounty_num": 9066,
     "ApacheJunction_num": 70,
     "Avondale_num": 171,
@@ -826,7 +826,7 @@
     "Tempe_TH": 162000
   },
   {
-    "Geography": "8/1/2015",
+    "Month": "8/1/2015",
     "MaricopaCounty_num": 8040,
     "ApacheJunction_num": 64,
     "Avondale_num": 168,
@@ -944,7 +944,7 @@
     "Tempe_TH": 170500
   },
   {
-    "Geography": "9/1/2015",
+    "Month": "9/1/2015",
     "MaricopaCounty_num": 8204,
     "ApacheJunction_num": 63,
     "Avondale_num": 149,
@@ -1062,7 +1062,7 @@
     "Tempe_TH": 200000
   },
   {
-    "Geography": "10/1/2015",
+    "Month": "10/1/2015",
     "MaricopaCounty_num": 7468,
     "ApacheJunction_num": 65,
     "Avondale_num": 138,
@@ -1180,7 +1180,7 @@
     "Tempe_TH": 150000
   },
   {
-    "Geography": "11/1/2015",
+    "Month": "11/1/2015",
     "MaricopaCounty_num": 6332,
     "ApacheJunction_num": 63,
     "Avondale_num": 108,
@@ -1298,7 +1298,7 @@
     "Tempe_TH": 178000
   },
   {
-    "Geography": "12/1/2015",
+    "Month": "12/1/2015",
     "MaricopaCounty_num": 8305,
     "ApacheJunction_num": 82,
     "Avondale_num": 144,
@@ -1416,7 +1416,7 @@
     "Tempe_TH": 163000
   },
   {
-    "Geography": "1/1/2016",
+    "Month": "1/1/2016",
     "MaricopaCounty_num": 6026,
     "ApacheJunction_num": 61,
     "Avondale_num": 90,
@@ -1534,7 +1534,7 @@
     "Tempe_TH": 146000
   },
   {
-    "Geography": "2/1/2016",
+    "Month": "2/1/2016",
     "MaricopaCounty_num": 6907,
     "ApacheJunction_num": 74,
     "Avondale_num": 92,
@@ -1652,7 +1652,7 @@
     "Tempe_TH": 151000
   },
   {
-    "Geography": "3/1/2016",
+    "Month": "3/1/2016",
     "MaricopaCounty_num": 9758,
     "ApacheJunction_num": 111,
     "Avondale_num": 127,
@@ -1770,7 +1770,7 @@
     "Tempe_TH": 158000
   },
   {
-    "Geography": "4/1/2016",
+    "Month": "4/1/2016",
     "MaricopaCounty_num": 9733,
     "ApacheJunction_num": 92,
     "Avondale_num": 141,
@@ -1888,7 +1888,7 @@
     "Tempe_TH": 173500
   },
   {
-    "Geography": "5/1/2016",
+    "Month": "5/1/2016",
     "MaricopaCounty_num": 9957,
     "ApacheJunction_num": 95,
     "Avondale_num": 187,
@@ -2006,7 +2006,7 @@
     "Tempe_TH": 172000
   },
   {
-    "Geography": "6/1/2016",
+    "Month": "6/1/2016",
     "MaricopaCounty_num": 10301,
     "ApacheJunction_num": 86,
     "Avondale_num": 198,
@@ -2124,7 +2124,7 @@
     "Tempe_TH": 179500
   },
   {
-    "Geography": "7/1/2016",
+    "Month": "7/1/2016",
     "MaricopaCounty_num": 8803,
     "ApacheJunction_num": 68,
     "Avondale_num": 165,
@@ -2242,7 +2242,7 @@
     "Tempe_TH": 162500
   },
   {
-    "Geography": "8/1/2016",
+    "Month": "8/1/2016",
     "MaricopaCounty_num": 9305,
     "ApacheJunction_num": 75,
     "Avondale_num": 196,
@@ -2360,7 +2360,7 @@
     "Tempe_TH": 166500
   },
   {
-    "Geography": "9/1/2016",
+    "Month": "9/1/2016",
     "MaricopaCounty_num": 8778,
     "ApacheJunction_num": 81,
     "Avondale_num": 155,
@@ -2478,7 +2478,7 @@
     "Tempe_TH": 203950
   },
   {
-    "Geography": "10/1/2016",
+    "Month": "10/1/2016",
     "MaricopaCounty_num": 8380,
     "ApacheJunction_num": 60,
     "Avondale_num": 153,
@@ -2596,7 +2596,7 @@
     "Tempe_TH": 180000
   },
   {
-    "Geography": "11/1/2016",
+    "Month": "11/1/2016",
     "MaricopaCounty_num": 8238,
     "ApacheJunction_num": 90,
     "Avondale_num": 169,
@@ -2714,7 +2714,7 @@
     "Tempe_TH": 172500
   },
   {
-    "Geography": "12/1/2016",
+    "Month": "12/1/2016",
     "MaricopaCounty_num": 8664,
     "ApacheJunction_num": 85,
     "Avondale_num": 175,
@@ -2832,7 +2832,7 @@
     "Tempe_TH": 188000
   },
   {
-    "Geography": "1/1/2017",
+    "Month": "1/1/2017",
     "MaricopaCounty_num": 7262,
     "ApacheJunction_num": 70,
     "Avondale_num": 147,
@@ -2950,7 +2950,7 @@
     "Tempe_TH": 189250
   },
   {
-    "Geography": "2/1/2017",
+    "Month": "2/1/2017",
     "MaricopaCounty_num": 7653,
     "ApacheJunction_num": 100,
     "Avondale_num": 114,
@@ -3068,7 +3068,7 @@
     "Tempe_TH": 172500
   },
   {
-    "Geography": "3/1/2017",
+    "Month": "3/1/2017",
     "MaricopaCounty_num": 10907,
     "ApacheJunction_num": 146,
     "Avondale_num": 201,
@@ -3186,7 +3186,7 @@
     "Tempe_TH": 185000
   },
   {
-    "Geography": "4/1/2017",
+    "Month": "4/1/2017",
     "MaricopaCounty_num": 10028,
     "ApacheJunction_num": 105,
     "Avondale_num": 146,
@@ -3304,7 +3304,7 @@
     "Tempe_TH": 167000
   },
   {
-    "Geography": "5/1/2017",
+    "Month": "5/1/2017",
     "MaricopaCounty_num": 11306,
     "ApacheJunction_num": 98,
     "Avondale_num": 190,
@@ -3422,7 +3422,7 @@
     "Tempe_TH": 180000
   },
   {
-    "Geography": "6/1/2017",
+    "Month": "6/1/2017",
     "MaricopaCounty_num": 11238,
     "ApacheJunction_num": 91,
     "Avondale_num": 198,
@@ -3540,7 +3540,7 @@
     "Tempe_TH": 181000
   },
   {
-    "Geography": "7/1/2017",
+    "Month": "7/1/2017",
     "MaricopaCounty_num": 9147,
     "ApacheJunction_num": 83,
     "Avondale_num": 150,
@@ -3658,7 +3658,7 @@
     "Tempe_TH": 192000
   },
   {
-    "Geography": "8/1/2017",
+    "Month": "8/1/2017",
     "MaricopaCounty_num": 9891,
     "ApacheJunction_num": 76,
     "Avondale_num": 166,
@@ -3776,7 +3776,7 @@
     "Tempe_TH": 199000
   },
   {
-    "Geography": "9/1/2017",
+    "Month": "9/1/2017",
     "MaricopaCounty_num": 8926,
     "ApacheJunction_num": 89,
     "Avondale_num": 179,
@@ -3894,7 +3894,7 @@
     "Tempe_TH": 179950
   },
   {
-    "Geography": "10/1/2017",
+    "Month": "10/1/2017",
     "MaricopaCounty_num": 8850,
     "ApacheJunction_num": 81,
     "Avondale_num": 137,
@@ -4012,7 +4012,7 @@
     "Tempe_TH": 196000
   },
   {
-    "Geography": "11/1/2017",
+    "Month": "11/1/2017",
     "MaricopaCounty_num": 8704,
     "ApacheJunction_num": 91,
     "Avondale_num": 142,
@@ -4130,7 +4130,7 @@
     "Tempe_TH": 202000
   },
   {
-    "Geography": "12/1/2017",
+    "Month": "12/1/2017",
     "MaricopaCounty_num": 8803,
     "ApacheJunction_num": 83,
     "Avondale_num": 147,
@@ -4248,7 +4248,7 @@
     "Tempe_TH": 210000
   },
   {
-    "Geography": "1/1/2018",
+    "Month": "1/1/2018",
     "MaricopaCounty_num": 7624,
     "ApacheJunction_num": 81,
     "Avondale_num": 114,
@@ -4366,7 +4366,7 @@
     "Tempe_TH": 212000
   },
   {
-    "Geography": "2/1/2018",
+    "Month": "2/1/2018",
     "MaricopaCounty_num": 8449,
     "ApacheJunction_num": 103,
     "Avondale_num": 125,
@@ -4484,7 +4484,7 @@
     "Tempe_TH": 192500
   },
   {
-    "Geography": "3/1/2018",
+    "Month": "3/1/2018",
     "MaricopaCounty_num": 11331,
     "ApacheJunction_num": 162,
     "Avondale_num": 180,
@@ -4602,7 +4602,7 @@
     "Tempe_TH": 205500
   },
   {
-    "Geography": "4/1/2018",
+    "Month": "4/1/2018",
     "MaricopaCounty_num": 10717,
     "ApacheJunction_num": 126,
     "Avondale_num": 170,
@@ -4720,7 +4720,7 @@
     "Tempe_TH": 209500
   },
   {
-    "Geography": "5/1/2018",
+    "Month": "5/1/2018",
     "MaricopaCounty_num": 11705,
     "ApacheJunction_num": 139,
     "Avondale_num": 213,
@@ -4838,7 +4838,7 @@
     "Tempe_TH": 192500
   },
   {
-    "Geography": "6/1/2018",
+    "Month": "6/1/2018",
     "MaricopaCounty_num": 10993,
     "ApacheJunction_num": 102,
     "Avondale_num": 184,
@@ -4956,7 +4956,7 @@
     "Tempe_TH": 208500
   },
   {
-    "Geography": "7/1/2018",
+    "Month": "7/1/2018",
     "MaricopaCounty_num": 10100,
     "ApacheJunction_num": 73,
     "Avondale_num": 172,
@@ -5074,7 +5074,7 @@
     "Tempe_TH": 209100
   },
   {
-    "Geography": "8/1/2018",
+    "Month": "8/1/2018",
     "MaricopaCounty_num": 9970,
     "ApacheJunction_num": 94,
     "Avondale_num": 145,
@@ -5192,7 +5192,7 @@
     "Tempe_TH": 210000
   },
   {
-    "Geography": "9/1/2018",
+    "Month": "9/1/2018",
     "MaricopaCounty_num": 8573,
     "ApacheJunction_num": 86,
     "Avondale_num": 174,
@@ -5310,7 +5310,7 @@
     "Tempe_TH": 204500
   },
   {
-    "Geography": "10/1/2018",
+    "Month": "10/1/2018",
     "MaricopaCounty_num": 9053,
     "ApacheJunction_num": 76,
     "Avondale_num": 143,
@@ -5428,7 +5428,7 @@
     "Tempe_TH": 176000
   },
   {
-    "Geography": "11/1/2018",
+    "Month": "11/1/2018",
     "MaricopaCounty_num": 8233,
     "ApacheJunction_num": 86,
     "Avondale_num": 138,
@@ -5546,7 +5546,7 @@
     "Tempe_TH": 213000
   },
   {
-    "Geography": "12/1/2018",
+    "Month": "12/1/2018",
     "MaricopaCounty_num": 8218,
     "ApacheJunction_num": 72,
     "Avondale_num": 133,
@@ -5664,7 +5664,7 @@
     "Tempe_TH": 207000
   },
   {
-    "Geography": "1/1/2019",
+    "Month": "1/1/2019",
     "MaricopaCounty_num": 6921,
     "ApacheJunction_num": 99,
     "Avondale_num": 106,
@@ -5782,7 +5782,7 @@
     "Tempe_TH": 218500
   },
   {
-    "Geography": "2/1/2019",
+    "Month": "2/1/2019",
     "MaricopaCounty_num": 8078,
     "ApacheJunction_num": 102,
     "Avondale_num": 122,
@@ -5900,7 +5900,7 @@
     "Tempe_TH": 213250
   },
   {
-    "Geography": "3/1/2019",
+    "Month": "3/1/2019",
     "MaricopaCounty_num": 9919,
     "ApacheJunction_num": 117,
     "Avondale_num": 158,
@@ -6018,7 +6018,7 @@
     "Tempe_TH": 218000
   },
   {
-    "Geography": "4/1/2019",
+    "Month": "4/1/2019",
     "MaricopaCounty_num": 11185,
     "ApacheJunction_num": 134,
     "Avondale_num": 170,
@@ -6136,7 +6136,7 @@
     "Tempe_TH": 226000
   },
   {
-    "Geography": "5/1/2019",
+    "Month": "5/1/2019",
     "MaricopaCounty_num": 12031,
     "ApacheJunction_num": 117,
     "Avondale_num": 175,
@@ -6254,7 +6254,7 @@
     "Tempe_TH": 226500
   },
   {
-    "Geography": "6/1/2019",
+    "Month": "6/1/2019",
     "MaricopaCounty_num": 10731,
     "ApacheJunction_num": 100,
     "Avondale_num": 170,
@@ -6372,7 +6372,7 @@
     "Tempe_TH": 187000
   },
   {
-    "Geography": "7/1/2019",
+    "Month": "7/1/2019",
     "MaricopaCounty_num": 10726,
     "ApacheJunction_num": 90,
     "Avondale_num": 172,
@@ -6490,7 +6490,7 @@
     "Tempe_TH": 221500
   },
   {
-    "Geography": "8/1/2019",
+    "Month": "8/1/2019",
     "MaricopaCounty_num": 10489,
     "ApacheJunction_num": 86,
     "Avondale_num": 167,
@@ -6608,7 +6608,7 @@
     "Tempe_TH": 235500
   },
   {
-    "Geography": "9/1/2019",
+    "Month": "9/1/2019",
     "MaricopaCounty_num": 9621,
     "ApacheJunction_num": 114,
     "Avondale_num": 147,
@@ -6726,7 +6726,7 @@
     "Tempe_TH": 222500
   },
   {
-    "Geography": "10/1/2019",
+    "Month": "10/1/2019",
     "MaricopaCounty_num": 9679,
     "ApacheJunction_num": 103,
     "Avondale_num": 144,
@@ -6844,7 +6844,7 @@
     "Tempe_TH": 240000
   },
   {
-    "Geography": "11/1/2019",
+    "Month": "11/1/2019",
     "MaricopaCounty_num": 8794,
     "ApacheJunction_num": 95,
     "Avondale_num": 116,
@@ -6962,7 +6962,7 @@
     "Tempe_TH": 240000
   },
   {
-    "Geography": "12/1/2019",
+    "Month": "12/1/2019",
     "MaricopaCounty_num": 9549,
     "ApacheJunction_num": 92,
     "Avondale_num": 151,
@@ -7080,7 +7080,7 @@
     "Tempe_TH": 239900
   },
   {
-    "Geography": "1/1/2020",
+    "Month": "1/1/2020",
     "MaricopaCounty_num": 7949,
     "ApacheJunction_num": 88,
     "Avondale_num": 120,
@@ -7198,7 +7198,7 @@
     "Tempe_TH": 275000
   },
   {
-    "Geography": "2/1/2020",
+    "Month": "2/1/2020",
     "MaricopaCounty_num": 8829,
     "ApacheJunction_num": 108,
     "Avondale_num": 123,
@@ -7316,7 +7316,7 @@
     "Tempe_TH": 240250
   },
   {
-    "Geography": "3/1/2020",
+    "Month": "3/1/2020",
     "MaricopaCounty_num": 10147,
     "ApacheJunction_num": 139,
     "Avondale_num": 121,
@@ -7434,7 +7434,7 @@
     "Tempe_TH": 229500
   },
   {
-    "Geography": "4/1/2020",
+    "Month": "4/1/2020",
     "MaricopaCounty_num": 8219,
     "ApacheJunction_num": 94,
     "Avondale_num": 101,
@@ -7552,7 +7552,7 @@
     "Tempe_TH": 236200
   },
   {
-    "Geography": "5/1/2020",
+    "Month": "5/1/2020",
     "MaricopaCounty_num": 7920,
     "ApacheJunction_num": 59,
     "Avondale_num": 115,
@@ -7670,7 +7670,7 @@
     "Tempe_TH": 229900
   },
   {
-    "Geography": "6/1/2020",
+    "Month": "6/1/2020",
     "MaricopaCounty_num": 10347,
     "ApacheJunction_num": 96,
     "Avondale_num": 159,
@@ -7788,7 +7788,7 @@
     "Tempe_TH": 231000
   },
   {
-    "Geography": "7/1/2020",
+    "Month": "7/1/2020",
     "MaricopaCounty_num": 11343,
     "ApacheJunction_num": 92,
     "Avondale_num": 198,
@@ -7906,7 +7906,7 @@
     "Tempe_TH": 234000
   },
   {
-    "Geography": "8/1/2020",
+    "Month": "8/1/2020",
     "MaricopaCounty_num": 10119,
     "ApacheJunction_num": 91,
     "Avondale_num": 137,
@@ -8024,7 +8024,7 @@
     "Tempe_TH": 271500
   },
   {
-    "Geography": "9/1/2020",
+    "Month": "9/1/2020",
     "MaricopaCounty_num": 10763,
     "ApacheJunction_num": 100,
     "Avondale_num": 151,
@@ -8142,7 +8142,7 @@
     "Tempe_TH": 247700
   },
   {
-    "Geography": "10/1/2020",
+    "Month": "10/1/2020",
     "MaricopaCounty_num": 11442,
     "ApacheJunction_num": 110,
     "Avondale_num": 161,
@@ -8260,7 +8260,7 @@
     "Tempe_TH": 264000
   },
   {
-    "Geography": "11/1/2020",
+    "Month": "11/1/2020",
     "MaricopaCounty_num": 10196,
     "ApacheJunction_num": 100,
     "Avondale_num": 140,
@@ -8378,7 +8378,7 @@
     "Tempe_TH": 265000
   },
   {
-    "Geography": "12/1/2020",
+    "Month": "12/1/2020",
     "MaricopaCounty_num": 11575,
     "ApacheJunction_num": 105,
     "Avondale_num": 164,
@@ -8496,7 +8496,7 @@
     "Tempe_TH": 253500
   },
   {
-    "Geography": "1/1/2021",
+    "Month": "1/1/2021",
     "MaricopaCounty_num": 8549,
     "ApacheJunction_num": 115,
     "Avondale_num": 136,
@@ -8614,7 +8614,7 @@
     "Tempe_TH": 255000
   },
   {
-    "Geography": "2/1/2021",
+    "Month": "2/1/2021",
     "MaricopaCounty_num": 9494,
     "ApacheJunction_num": 102,
     "Avondale_num": 139,
@@ -8732,7 +8732,7 @@
     "Tempe_TH": 292000
   },
   {
-    "Geography": "3/1/2021",
+    "Month": "3/1/2021",
     "MaricopaCounty_num": 12275,
     "ApacheJunction_num": 135,
     "Avondale_num": 213,
@@ -8850,7 +8850,7 @@
     "Tempe_TH": 265000
   },
   {
-    "Geography": "4/1/2021",
+    "Month": "4/1/2021",
     "MaricopaCounty_num": 12240,
     "ApacheJunction_num": 152,
     "Avondale_num": 202,
@@ -8968,7 +8968,7 @@
     "Tempe_TH": 320000
   },
   {
-    "Geography": "5/1/2021",
+    "Month": "5/1/2021",
     "MaricopaCounty_num": 11727,
     "ApacheJunction_num": 93,
     "Avondale_num": 181,
@@ -9086,7 +9086,7 @@
     "Tempe_TH": 317750
   },
   {
-    "Geography": "6/1/2021",
+    "Month": "6/1/2021",
     "MaricopaCounty_num": 12443,
     "ApacheJunction_num": 104,
     "Avondale_num": 216,
@@ -9204,7 +9204,7 @@
     "Tempe_TH": 299125
   },
   {
-    "Geography": "7/1/2021",
+    "Month": "7/1/2021",
     "MaricopaCounty_num": 10900,
     "ApacheJunction_num": 116,
     "Avondale_num": 192,
@@ -9322,7 +9322,7 @@
     "Tempe_TH": 290000
   },
   {
-    "Geography": "8/1/2021",
+    "Month": "8/1/2021",
     "MaricopaCounty_num": 11046,
     "ApacheJunction_num": 116,
     "Avondale_num": 201,
@@ -9440,7 +9440,7 @@
     "Tempe_TH": 365000
   },
   {
-    "Geography": "9/1/2021",
+    "Month": "9/1/2021",
     "MaricopaCounty_num": 11402,
     "ApacheJunction_num": 110,
     "Avondale_num": 227,
@@ -9558,7 +9558,7 @@
     "Tempe_TH": 335000
   },
   {
-    "Geography": "10/1/2021",
+    "Month": "10/1/2021",
     "MaricopaCounty_num": 10480,
     "ApacheJunction_num": 115,
     "Avondale_num": 177,
@@ -9676,7 +9676,7 @@
     "Tempe_TH": 320000
   },
   {
-    "Geography": "11/1/2021",
+    "Month": "11/1/2021",
     "MaricopaCounty_num": 10462,
     "ApacheJunction_num": 119,
     "Avondale_num": 194,
@@ -9794,7 +9794,7 @@
     "Tempe_TH": 330000
   },
   {
-    "Geography": "12/1/2021",
+    "Month": "12/1/2021",
     "MaricopaCounty_num": 10808,
     "ApacheJunction_num": 107,
     "Avondale_num": 192,
@@ -9912,7 +9912,7 @@
     "Tempe_TH": 360000
   },
   {
-    "Geography": "1/1/2022",
+    "Month": "1/1/2022",
     "MaricopaCounty_num": 8227,
     "ApacheJunction_num": 88,
     "Avondale_num": 140,
@@ -10030,7 +10030,7 @@
     "Tempe_TH": 345000
   },
   {
-    "Geography": "2/1/2022",
+    "Month": "2/1/2022",
     "MaricopaCounty_num": 9237,
     "ApacheJunction_num": 126,
     "Avondale_num": 143,
@@ -10148,7 +10148,7 @@
     "Tempe_TH": 365000
   },
   {
-    "Geography": "3/1/2022",
+    "Month": "3/1/2022",
     "MaricopaCounty_num": 11718,
     "ApacheJunction_num": 176,
     "Avondale_num": 192,
@@ -10266,7 +10266,7 @@
     "Tempe_TH": 331000
   },
   {
-    "Geography": "4/1/2022",
+    "Month": "4/1/2022",
     "MaricopaCounty_num": 10787,
     "ApacheJunction_num": 167,
     "Avondale_num": 180,
@@ -10384,7 +10384,7 @@
     "Tempe_TH": 395000
   },
   {
-    "Geography": "5/1/2022",
+    "Month": "5/1/2022",
     "MaricopaCounty_num": 10532,
     "ApacheJunction_num": 115,
     "Avondale_num": 188,
@@ -10502,7 +10502,7 @@
     "Tempe_TH": 394500
   },
   {
-    "Geography": "6/1/2022",
+    "Month": "6/1/2022",
     "MaricopaCounty_num": 9678,
     "ApacheJunction_num": 101,
     "Avondale_num": 202,
@@ -10620,7 +10620,7 @@
     "Tempe_TH": 380000
   },
   {
-    "Geography": "7/1/2022",
+    "Month": "7/1/2022",
     "MaricopaCounty_num": 7362,
     "ApacheJunction_num": 99,
     "Avondale_num": 157,
@@ -10738,7 +10738,7 @@
     "Tempe_TH": 370500
   },
   {
-    "Geography": "8/1/2022",
+    "Month": "8/1/2022",
     "MaricopaCounty_num": 7550,
     "ApacheJunction_num": 85,
     "Avondale_num": 164,
@@ -10856,7 +10856,7 @@
     "Tempe_TH": 379000
   },
   {
-    "Geography": "9/1/2022",
+    "Month": "9/1/2022",
     "MaricopaCounty_num": 7308,
     "ApacheJunction_num": 85,
     "Avondale_num": 203,
@@ -10974,7 +10974,7 @@
     "Tempe_TH": 384000
   },
   {
-    "Geography": "10/1/2022",
+    "Month": "10/1/2022",
     "MaricopaCounty_num": 6172,
     "ApacheJunction_num": 69,
     "Avondale_num": 140,
@@ -11092,7 +11092,7 @@
     "Tempe_TH": 386500
   },
   {
-    "Geography": "11/1/2022",
+    "Month": "11/1/2022",
     "MaricopaCounty_num": 5515,
     "ApacheJunction_num": 61,
     "Avondale_num": 134,
@@ -11210,7 +11210,7 @@
     "Tempe_TH": 360000
   },
   {
-    "Geography": "12/1/2022",
+    "Month": "12/1/2022",
     "MaricopaCounty_num": 5885,
     "ApacheJunction_num": 68,
     "Avondale_num": 141,
@@ -11328,7 +11328,7 @@
     "Tempe_TH": 310000
   },
   {
-    "Geography": "1/1/2023",
+    "Month": "1/1/2023",
     "MaricopaCounty_num": 4679,
     "ApacheJunction_num": 53,
     "Avondale_num": 112,
@@ -11446,7 +11446,7 @@
     "Tempe_TH": 380000
   },
   {
-    "Geography": "2/1/2023",
+    "Month": "2/1/2023",
     "MaricopaCounty_num": 6030,
     "ApacheJunction_num": 75,
     "Avondale_num": 156,
@@ -11564,7 +11564,7 @@
     "Tempe_TH": 361500
   },
   {
-    "Geography": "3/1/2023",
+    "Month": "3/1/2023",
     "MaricopaCounty_num": 8083,
     "ApacheJunction_num": 100,
     "Avondale_num": 186,
@@ -11682,7 +11682,7 @@
     "Tempe_TH": 360000
   },
   {
-    "Geography": "4/1/2023",
+    "Month": "4/1/2023",
     "MaricopaCounty_num": 7001,
     "ApacheJunction_num": 75,
     "Avondale_num": 164,
@@ -11800,7 +11800,7 @@
     "Tempe_TH": 330000
   },
   {
-    "Geography": "5/1/2023",
+    "Month": "5/1/2023",
     "MaricopaCounty_num": 8414,
     "ApacheJunction_num": 66,
     "Avondale_num": 211,
@@ -11918,7 +11918,7 @@
     "Tempe_TH": 379900
   },
   {
-    "Geography": "6/1/2023",
+    "Month": "6/1/2023",
     "MaricopaCounty_num": 7806,
     "ApacheJunction_num": 94,
     "Avondale_num": 169,
@@ -12036,7 +12036,7 @@
     "Tempe_TH": 383500
   },
   {
-    "Geography": "7/1/2023",
+    "Month": "7/1/2023",
     "MaricopaCounty_num": 6227,
     "ApacheJunction_num": 96,
     "Avondale_num": 114,
@@ -12154,7 +12154,7 @@
     "Tempe_TH": 315000
   },
   {
-    "Geography": "8/1/2023",
+    "Month": "8/1/2023",
     "MaricopaCounty_num": 6671,
     "ApacheJunction_num": 119,
     "Avondale_num": 149,
@@ -12272,7 +12272,7 @@
     "Tempe_TH": 132660
   },
   {
-    "Geography": "9/1/2023",
+    "Month": "9/1/2023",
     "MaricopaCounty_num": 5986,
     "ApacheJunction_num": 121,
     "Avondale_num": 116,
@@ -12390,7 +12390,7 @@
     "Tempe_TH": 379797
   },
   {
-    "Geography": "10/1/2023",
+    "Month": "10/1/2023",
     "MaricopaCounty_num": 5663,
     "ApacheJunction_num": 94,
     "Avondale_num": 119,
@@ -12508,7 +12508,7 @@
     "Tempe_TH": 372000
   },
   {
-    "Geography": "11/1/2023",
+    "Month": "11/1/2023",
     "MaricopaCounty_num": 4989,
     "ApacheJunction_num": 108,
     "Avondale_num": 122,
@@ -12626,7 +12626,7 @@
     "Tempe_TH": 346000
   },
   {
-    "Geography": "12/1/2023",
+    "Month": "12/1/2023",
     "MaricopaCounty_num": 5147,
     "ApacheJunction_num": 98,
     "Avondale_num": 122,
@@ -12744,7 +12744,7 @@
     "Tempe_TH": 429000
   },
   {
-    "Geography": "1/1/2024",
+    "Month": "1/1/2024",
     "MaricopaCounty_num": 4864,
     "ApacheJunction_num": 116,
     "Avondale_num": 118,
@@ -12862,7 +12862,7 @@
     "Tempe_TH": 350000
   },
   {
-    "Geography": "2/1/2024",
+    "Month": "2/1/2024",
     "MaricopaCounty_num": 6048,
     "ApacheJunction_num": 114,
     "Avondale_num": 110,
@@ -12980,7 +12980,7 @@
     "Tempe_TH": 387500
   },
   {
-    "Geography": "3/1/2024",
+    "Month": "3/1/2024",
     "MaricopaCounty_num": 7067,
     "ApacheJunction_num": 178,
     "Avondale_num": 126,
@@ -13098,7 +13098,7 @@
     "Tempe_TH": 375000
   },
   {
-    "Geography": "4/1/2024",
+    "Month": "4/1/2024",
     "MaricopaCounty_num": 7435,
     "ApacheJunction_num": 156,
     "Avondale_num": 156,
@@ -13216,7 +13216,7 @@
     "Tempe_TH": 369000
   },
   {
-    "Geography": "5/1/2024",
+    "Month": "5/1/2024",
     "MaricopaCounty_num": 8014,
     "ApacheJunction_num": 122,
     "Avondale_num": 174,
@@ -13334,7 +13334,7 @@
     "Tempe_TH": 381400
   },
   {
-    "Geography": "6/1/2024",
+    "Month": "6/1/2024",
     "MaricopaCounty_num": 6749,
     "ApacheJunction_num": 129,
     "Avondale_num": 169,

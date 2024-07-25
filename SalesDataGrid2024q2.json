@@ -1,0 +1,226 @@
+[
+  {
+    "Geography": "Maricopa County",
+    "MedPriceNew": 470990,
+    "MedPriceOld": 467000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.008543897
+  },
+  {
+    "Geography": "Apache Junction",
+    "MedPriceNew": 415000,
+    "MedPriceOld": 370000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.121621622
+  },
+  {
+    "Geography": "Avondale",
+    "MedPriceNew": 433990,
+    "MedPriceOld": 425000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.021152941
+  },
+  {
+    "Geography": "Buckeye",
+    "MedPriceNew": 414216,
+    "MedPriceOld": 399990,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.035565889
+  },
+  {
+    "Geography": "Carefree",
+    "MedPriceNew": 1085000,
+    "MedPriceOld": 762000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.423884514
+  },
+  {
+    "Geography": "Cave Creek",
+    "MedPriceNew": 890000,
+    "MedPriceOld": 2200000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.595454545
+  },
+  {
+    "Geography": "Chandler",
+    "MedPriceNew": 550000,
+    "MedPriceOld": 505000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.089108911
+  },
+  {
+    "Geography": "El Mirage",
+    "MedPriceNew": 371000,
+    "MedPriceOld": 352000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.053977273
+  },
+  {
+    "Geography": "Florence",
+    "MedPriceNew": 349200,
+    "MedPriceOld": 379900,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.08081074
+  },
+  {
+    "Geography": "Fountain Hills",
+    "MedPriceNew": 673500,
+    "MedPriceOld": 625000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.0776
+  },
+  {
+    "Geography": "Gila Bend",
+    "MedPriceNew": 227081,
+    "MedPriceOld": 278000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.183161871
+  },
+  {
+    "Geography": "Gilbert",
+    "MedPriceNew": 592000,
+    "MedPriceOld": 585000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.011965812
+  },
+  {
+    "Geography": "Glendale",
+    "MedPriceNew": 446730,
+    "MedPriceOld": 424125,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.053297966
+  },
+  {
+    "Geography": "Goodyear",
+    "MedPriceNew": 479945,
+    "MedPriceOld": 499500.5,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.039150111
+  },
+  {
+    "Geography": "Guadalupe",
+    "MedPriceNew": 320000,
+    "MedPriceOld": 330000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.03030303
+  },
+  {
+    "Geography": "Litchfield Park",
+    "MedPriceNew": 589000,
+    "MedPriceOld": 555000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.061261261
+  },
+  {
+    "Geography": "Maricopa",
+    "MedPriceNew": 344990,
+    "MedPriceOld": 365707.5,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.056650465
+  },
+  {
+    "Geography": "Mesa",
+    "MedPriceNew": 440000,
+    "MedPriceOld": 465000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.053763441
+  },
+  {
+    "Geography": "Paradise Valley",
+    "MedPriceNew": 3775000,
+    "MedPriceOld": 4125000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.084848485
+  },
+  {
+    "Geography": "Peoria",
+    "MedPriceNew": 546954,
+    "MedPriceOld": 517000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.057938104
+  },
+  {
+    "Geography": "Phoenix",
+    "MedPriceNew": 440000,
+    "MedPriceOld": 425000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.035294118
+  },
+  {
+    "Geography": "Queen Creek",
+    "MedPriceNew": 650000,
+    "MedPriceOld": 612691.5,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.060892798
+  },
+  {
+    "Geography": "Scottsdale",
+    "MedPriceNew": 840000,
+    "MedPriceOld": 812500,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.033846154
+  },
+  {
+    "Geography": "Surprise",
+    "MedPriceNew": 425000,
+    "MedPriceOld": 421490,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.0083276
+  },
+  {
+    "Geography": "Tempe",
+    "MedPriceNew": 462000,
+    "MedPriceOld": 451750,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.022689541
+  },
+  {
+    "Geography": "Tolleson",
+    "MedPriceNew": 390000,
+    "MedPriceOld": 380000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.026315789
+  },
+  {
+    "Geography": "Wickenburg",
+    "MedPriceNew": 448500,
+    "MedPriceOld": 519808,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": -0.137181421
+  },
+  {
+    "Geography": "Youngtown",
+    "MedPriceNew": 375000,
+    "MedPriceOld": 350000,
+    "NewDate": "6/1/2024",
+    "OldDate": "6/1/2023",
+    "PctChange": 0.071428571
+  }
+]
